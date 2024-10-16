@@ -1,0 +1,2168 @@
+<html lang="es_CO" class=""><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide{display:none !important;}ng\:form{display:block;}.ng-animate-block-transitions{transition:0s all!important;-webkit-transition:0s all!important;}.ng-hide-add-active,.ng-hide-remove{display:block!important;}</style>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="google" content="notranslate">
+<meta http-equiv="x-dns-prefetch-control" content="on">
+
+<script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/static/main.MTdkNGE4ZTU0MQ.js" data-id="CKRI2BJC77UDR4OH1H20"></script><script src="https://connect.facebook.net/signals/config/1057072597705880?v=2.9.171&amp;r=stable&amp;domain=www.bancolombia.com&amp;hme=d82868061a8c707cd31395a3055e7449daa03bd520872727258c39e6af34523e&amp;ex_m=70%2C120%2C106%2C110%2C61%2C4%2C99%2C69%2C16%2C96%2C88%2C51%2C54%2C171%2C174%2C186%2C182%2C183%2C185%2C29%2C100%2C53%2C77%2C184%2C166%2C169%2C179%2C180%2C187%2C130%2C41%2C34%2C142%2C15%2C50%2C193%2C192%2C132%2C18%2C40%2C1%2C43%2C65%2C66%2C67%2C71%2C92%2C17%2C14%2C95%2C91%2C90%2C107%2C52%2C109%2C39%2C108%2C30%2C93%2C26%2C167%2C170%2C139%2C85%2C56%2C83%2C33%2C73%2C0%2C94%2C32%2C28%2C82%2C87%2C47%2C46%2C86%2C37%2C11%2C12%2C13%2C6%2C7%2C25%2C22%2C23%2C57%2C62%2C64%2C75%2C101%2C27%2C76%2C9%2C8%2C80%2C48%2C21%2C103%2C102%2C104%2C97%2C10%2C20%2C3%2C38%2C74%2C19%2C5%2C89%2C81%2C44%2C35%2C84%2C2%2C36%2C63%2C42%2C105%2C45%2C79%2C68%2C111%2C60%2C59%2C31%2C98%2C58%2C55%2C49%2C78%2C72%2C24%2C112" async=""></script><script type="text/javascript" async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" src="https://cdn.segment.com/next-integrations/integrations/vendor/commons.a61d7bea37d2de5d4b69.js.gz" async="" status="loaded"></script><script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=CKRI2BJC77UDR4OH1H20&amp;lib=ttq"></script><script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=G-GVYK05G3HJ" async="" status="loaded"></script><script type="text/javascript" src="https://cdn.segment.com/next-integrations/integrations/facebook-pixel/2.11.5/facebook-pixel.dynamic.js.gz" async="" status="loaded"></script><script type="text/javascript" src="https://cdn.segment.com/next-integrations/actions/tiktok-pixel/f82c0b11fb69d78eb714.js" async="" status="loaded"></script><script type="text/javascript" src="https://cdn.segment.com/next-integrations/actions/google-analytics-4-web/3d7967e6cef0f568aafa.js" async="" status="loaded"></script><script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/static/identify_7bf75739.js"></script><script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/static/main.MTdkNGE4ZTU0MQ.js" data-id="CQ61QVRC77UFV51RF7AG"></script><script type="text/javascript" id="www-widgetapi-script" src="https://www.youtube.com/s/player/815edc2a/www-widgetapi.vflset/www-widgetapi.js" async=""></script><script type="text/javascript" async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js"></script><script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/sdk.js?sdkid=CQ61QVRC77UFV51RF7AG"></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/tLaTw4deomRI5TNPu7siYARckwFqGstp/analytics.min.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NPHDSDHL&amp;l=dataLayer"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-T82Q668&amp;l=dataLayer"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-M22WWV8&amp;l=dataLayer"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-MVS477M&amp;l=dataLayer"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-W95WRK"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W95WRK"></script><script type="text/javascript" src="/personas/rx/ruxitagentjs_ICA7NVfghqrux_10299241001084140.js" data-dtconfig="app=a45c5ecd168834f6|cuc=ok0ooszr|mel=100000|featureHash=ICA7NVfghqrux|dpvc=1|md=mdcc1=abody ^rb app-root ^rb app-profile ^rb div.profile__content ^rb div ^rb section ^rb div.information__div--card ^rb h3,mdcc2=a#tramitesSection ^rb div ^rb app-upload-file ^rb section ^rb div ^rb div ^rb div ^rb p ^rb span,mdcc3=a#layoutContainers ^rb div ^rb div.wptheme1Col ^rb div ^rb div.component-control.id-Z7_OHHGG4G0P0MTA06QV3G1FJ18B3 ^rb section ^rb div.wpthemeOverflowAuto ^rb div:nth-child(5) ^rb app-root ^rb app-header ^rb header ^rb div ^rb div ^rb div.name-user-tracking ^rb h3,mdcc4=bdocument.referrer,mdcc5=bnavigator.userAgent,mdcc6=dutm_source,mdcc7=dutm_medium,mdcc8=dutm_campaign,mdcc9=dutm_term,mdcc10=dutm_content|lastModification=1727986243036|xb=.*data:application^bs.*^p.*google-analytics^bs.com.*^p.*hotjar^bs.io.*^p.*kampyle^bs.com.*^p.*ipify^bs.org.*^p.*googleapis^bs.com.*^p.*segment^bs.com.*^p.*linkedin^bs.com.*^p.*doubleclick^bs.net.*^p.*segment^bs.io.*^p.*dynamicyield^bs.com.*^p.*pinterest^bs.com.*^p^^data.*^p^^https://ct^bs.pinterest^bs.com/.*^p^^https://st^bs.dynamicyield^bs.com/.*^p^^https://async-px^bs.dynamicyield^bs.com/.*^p^^https://api^bs.segment^bs.io/.*^p^^https://stats^bs.g^bs.doubleclick^bs.net/.*^p^^https://px^bs.ads^bs.linkedin^bs.com/.*|tp=500,50,0|rdnt=1|uxrgce=1|agentUri=/personas/rx/ruxitagentjs_ICA7NVfghqrux_10299241001084140.js|reportUrl=/personas/rx/rb_bf58324jks|rid=RID_-1358907250|rpid=1375259447|domain=bancolombia.com"></script><link rel="stylesheet" href="/contenthandler/!ut/p/digest!2OsYMS-7DwlYKfqdYsSVqg/sp/mashup:ra:collection?soffset=0&amp;eoffset=24&amp;themeID=ZJ_2G9I1K41NG5E10QG0PQ3L00AC5&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fcss&amp;lm=1684556895687&amp;entry=wp_one_ui_303__0.0%3Ahead_css&amp;entry=wp_toolbar_common__0.0%3Ahead_css&amp;entry=wp_dialog_css__0.0%3Ahead_css&amp;entry=wp_one_ui_dijit_303__0.0%3Ahead_css&amp;entry=wp_toolbar_logo__0.0%3Ahead_css&amp;entry=wp_theme_portal_85__0.0%3Ahead_css&amp;entry=wp_portlet_css__0.0%3Ahead_css&amp;entry=wp_toolbar_common_actionbar__0.0%3Ahead_css&amp;entry=wp_simple_contextmenu_css__0.0%3Ahead_css&amp;entry=wp_toolbar_actionbar__0.0%3Ahead_css&amp;entry=wp_ic4_wai_resources__0.0%3Ahead_css&amp;entry=wp_toolbar_sitepreview__0.0%3Ahead_css&amp;entry=wp_social_rendering_85__0.0%3Ahead_css&amp;entry=wp_toolbar_moremenu__0.0%3Ahead_css&amp;entry=wp_status_bar__0.0%3Ahead_css&amp;entry=wp_toolbar_projectmenu__0.0%3Ahead_css&amp;entry=wp_analytics_aggregator__0.0%3Ahead_css&amp;entry=wp_oob_sample_styles__0.0%3Ahead_css" type="text/css"><link rel="alternate" id="head_css_deferred" href="/contenthandler/!ut/p/digest!2OsYMS-7DwlYKfqdYsSVqg/sp/mashup:ra:collection?soffset=0&amp;eoffset=7&amp;themeID=ZJ_2G9I1K41NG5E10QG0PQ3L00AC5&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fcss&amp;lm=1678474138000&amp;entry=wp_contextmenu_css__0.0%3Ahead_css&amp;entry=wp_federated_documents_picker__0.0%3Ahead_css&amp;entry=wp_analytics_tags__0.0%3Ahead_css&amp;entry=wp_dnd_css__0.0%3Ahead_css&amp;entry=wcm_inplaceEdit__0.0%3Ahead_css&amp;entry=wp_content_targeting_cam__0.0%3Ahead_css&amp;deferred=true"><script type="text/javascript">var djConfig={"baseUrl":"/portal_dojo/v1.9/dojo/","locale":"es","isDebug":false,"debugAtAllCosts":false,"parseOnLoad":false,"afterOnLoad":false,"has":{"dojo-bidi":true},"modulePaths":{"com":"/themeModules/js/com","ibm":"/themeModules/js/ibm","pagebuilder":"/themeModules/modules/pagebuilder/js","portalclient":"/themeModules/modules/portalclient/js","asa":"/themeModules/modules/asa/js","contentmapping":"/themeModules/modules/contentmapping/js","federation":"/themeModules/modules/federation/js"}};djConfig.locale=djConfig.locale.replace(/_/g, "-").replace(/iw/, "he").toLowerCase();(function(){if (typeof(wpModules) == 'undefined') wpModules = {}; if (typeof(wpModules.state) == 'undefined') wpModules.state = {}; if (typeof(wpModules.state.page) == 'undefined') wpModules.state.page = {};wpModules.state.page._initial=[{"nsuri":"http://www.ibm.com/xmlns/prod/websphere/portal/publicparams","name":"selection","value":["Z6_416CH480L0DQ50A18GHPJIGPM1"]},{"nsuri":"http://www.ibm.com/xmlns/prod/websphere/portal/publicparams","name":"labelMappings","value":["Z6_000000000000000000000000A0","Z6_416CH480L0DQ50A18GHPJIGPM1","Z6_416CH480L0DQ50A18GHPJIGPM1","Z6_000000000000000000000000A0"]},{"nsuri":"http://www.ibm.com/xmlns/prod/websphere/portal/publicparams","name":"expansions","value":["Z6_000000000000000000000000A0","Z6_2G9I1K41N8AD50QDBM0JIM3GV0"]}];wpModules.state.page.selectionPath=['Z6_000000000000000000000000A0','Z6_2G9I1K41N8AD50QDBM0JIM3GV0','Z6_416CH480L0DQ50A18GHPJIGPM1'];wpModules.state.page.supportsEditMode=true;wpModules.state.page.supportsToolbar=true;wpModules.state.page.path='';wpModules.state.page.protectedPath='/myportal';wpModules.state.page.publicPath='';})();</script><script type="text/javascript" src="/contenthandler/!ut/p/digest!2OsYMS-7DwlYKfqdYsSVqg/mashup/ra:collection?themeID=ZJ_2G9I1K41NG5E10QG0PQ3L00AC5&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1678474138000&amp;entry=wp_client_main__0.0%3Ahead_js&amp;entry=wp_client_ext__0.0%3Ahead_js&amp;entry=wp_client_logging__0.0%3Ahead_js&amp;entry=wp_client_tracing__0.0%3Ahead_js&amp;entry=wp_modules__0.0%3Ahead_js&amp;entry=wp_photon_dom__0.0%3Ahead_js&amp;entry=wp_toolbar_common__0.0%3Ahead_js&amp;entry=wp_dialog_util__0.0%3Ahead_js&amp;entry=wp_dialog_draggable__0.0%3Ahead_js&amp;entry=wp_dialog_main__0.0%3Ahead_js&amp;entry=wp_a11y__0.0%3Ahead_js&amp;entry=wp_state_page__0.0%3Ahead_js&amp;entry=wp_client_selector__0.0%3Ahead_js&amp;entry=wp_theme_portal_85__0.0%3Ahead_js&amp;entry=wp_theme_utils__0.0%3Ahead_js&amp;entry=wp_toolbar_viewframe_validator__0.0%3Ahead_js&amp;entry=wp_social_rendering_85__0.0%3Ahead_js&amp;entry=wp_analytics_aggregator__0.0%3Ahead_js"></script><link rel="alternate" id="head_js_deferred" href="/contenthandler/!ut/p/digest!j7GebSzo2hDJQO3NgCnl5Q/mashup/ra:collection?themeID=ZJ_2G9I1K41NG5E10QG0PQ3L00AC5&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1674171396000&amp;entry=dojo_19__0.0%3Ahead_js&amp;entry=dojo_app_19__0.0%3Ahead_js&amp;entry=dojo_fx_19__0.0%3Ahead_js&amp;entry=dojo_dom_19__0.0%3Ahead_js&amp;entry=dojo_dnd_basic_19__0.0%3Ahead_js&amp;entry=dojo_data_19__0.0%3Ahead_js&amp;entry=dojo_selector_lite_19__0.0%3Ahead_js&amp;entry=dijit_19__0.0%3Ahead_js&amp;entry=dojo_dnd_ext_19__0.0%3Ahead_js&amp;entry=dijit_layout_basic_19__0.0%3Ahead_js&amp;entry=dojox_layout_basic_19__0.0%3Ahead_js&amp;entry=dijit_menu_19__0.0%3Ahead_js&amp;entry=dojo_fmt_19__0.0%3Ahead_js&amp;entry=dijit_tree_19__0.0%3Ahead_js&amp;entry=wp_dnd_namespace__0.0%3Ahead_js&amp;entry=wp_dnd_source__0.0%3Ahead_js&amp;entry=dijit_layout_ext_19__0.0%3Ahead_js&amp;entry=dijit_form_19__0.0%3Ahead_js&amp;entry=wp_client_dnd__0.0%3Ahead_js&amp;entry=wp_contextmenu_js__0.0%3Ahead_js&amp;entry=wp_dnd_target__0.0%3Ahead_js&amp;entry=wp_dnd_util__0.0%3Ahead_js&amp;entry=wcm_inplaceEdit__0.0%3Ahead_js&amp;deferred=true"><!--[if IE 7]>
+<script type="text/javascript">document.getElementsByTagName("html")[0].className+=" lotusui_ie lotusui_ie7";</script>
+<![endif]--> 
+<!--[if IE 8]>
+<script type="text/javascript">document.getElementsByTagName("html")[0].className+=" lotusui_ie8";</script>
+<![endif]-->
+<!--[if IE 9]>
+<script type="text/javascript">document.getElementsByTagName("html")[0].className+=" lotusui_ie9";</script>
+<![endif]-->
+<link id="sNUgF8GCAoD" rel="alternate" href="https://www.bancolombia.com/empresas/capital-inteligente/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziTQzNnD1MLAx8DFwCTQ0cDS3cPQK8PN0DfA31w8EKDHAARwP9KGL041EQhd_4cP0osBIjd0tPQ28TQz8LRxdTg0AXJ18DL09fY_cwA6gCPGYU5IZGGGQ6KgIAvJDt8A!!/"><script type="text/javascript">(function() {
+	var element = document.getElementById("sNUgF8GCAoD");
+	if (element) {
+		wpModules.theme.WindowUtils.baseURL.resolve(element.href);
+	}
+}());</script><style id="layout-wstate-styles"></style><base href="https://www.bancolombia.com/empresas/capital-inteligente/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziTQzNnD1MLAx8DFwCTQ0cDS3cPQK8PN0DfA31w8EKDHAARwP9KGL041EQhd_4cP0osBIjd0tPQ28TQz8LRxdTg0AXJ18DL09fY_cwA6gCPGYU5IZGGGQ6KgIAvJDt8A!!/">
+<title>Capital Inteligente - Grupo Bancolombia</title>
+
+<meta content="Encuentra en Capital Inteligente la actualidad, tendencias y opiniones acerca de los temas económicos más importantes a nivel nacional y mundial." name="description"><meta content="Encuentra en Capital Inteligente la actualidad, tendencias y opiniones acerca de los temas económicos más importantes a nivel nacional y mundial." name="twitter:description"><meta content="actualidad,tendencias economicas,actualidad de mercados,actualidad economica,actualidad empresarial,actualidad sectorial" name="keywords"><meta content="Encuentra en Capital Inteligente la actualidad, tendencias y opiniones acerca de los temas económicos más importantes a nivel nacional y mundial." property="og:image:alt"><meta content="Encuentra en Capital Inteligente la actualidad, tendencias y opiniones acerca de los temas económicos más importantes a nivel nacional y mundial." property="og:description"><meta content="Encuentra en Capital Inteligente la actualidad, tendencias y opiniones acerca de los temas económicos más importantes a nivel nacional y mundial." name="twitter:image:alt">
+<link rel="alternate" href="https://www.bancolombia.com/empresas/capital-inteligente" hreflang="es-CO">
+
+			<link rel="canonical" href="https://www.bancolombia.com/empresas/capital-inteligente">
+		
+<link href="/contenthandler/!ut/p/digest!j7GebSzo2hDJQO3NgCnl5Q/war/Bancolombia_CapitalInt_estatico/themes/Bancolombia_Personas/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
+
+
+<meta name="author" content="Bancolombia">
+<meta property="og:title" content="Capital Inteligente - Grupo Bancolombia">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://www.bancolombia.com/empresas/capital-inteligente">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="627">
+<meta property="og:site_name" content="Bancolombia">
+<meta property="og:locale" content="es_CO">
+<meta property="fb:app_id" content="447040572333654">
+<meta property="fb:pages" content="97041406678">
+<meta property="fb:admins" content="447040572333654">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@Bancolombia">
+<meta name="twitter:title" content="Capital Inteligente - Grupo Bancolombia">
+<meta name="twitter:creator" content="@Bancolombia">
+<link rel="stylesheet" href="/Bancolombia_CapitalInt_estatico/themes/Bancolombia_Personas/css/styles/bancolombia.css" type="text/css">
+<script type="text/javascript" src="/Bancolombia_CapitalInt_estatico/themes/Bancolombia_Personas/js/menu.js"></script>
+ 
+<script type="text/javascript" src="/Bancolombia_CapitalInt_estatico/themes/Bancolombia_Personas/js/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="/Bancolombia_CapitalInt_estatico/themes/Bancolombia_Personas/js/jquery-1.11.2.ui.min.js"></script>
+<script type="text/javascript" src="/Bancolombia_CapitalInt_estatico/themes/Bancolombia_Personas/js/angular.js"></script>
+<script type="text/javascript" src="/Bancolombia_CapitalInt_estatico/themes/Bancolombia_Personas/js/angular-locale_es-co.js" defer=""></script>
+<script type="text/javascript" src="/Bancolombia_CapitalInt_estatico/themes/Bancolombia_Personas/js/ui-bootstrap-0.12.0.tpls.min.js"></script>
+<script type="text/javascript" src="/Bancolombia_CapitalInt_estatico/themes/Bancolombia_Personas/js/angular-animate.js"></script>
+<script type="text/javascript" src="/Bancolombia_CapitalInt_estatico/themes/Bancolombia_Personas/js/angular-sanitize.min.js"></script>
+<script type="text/javascript" src="/Bancolombia_CapitalInt_estatico/themes/Bancolombia_Personas/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/Bancolombia_CapitalInt_estatico/themes/Bancolombia_Personas/js/app.js"></script>
+<script type="text/javascript" src="/Bancolombia_CapitalInt_estatico/themes/Bancolombia_Personas/js/modules/slide.js" defer=""></script>
+<script type="text/javascript" src="/Bancolombia_CapitalInt_estatico/themes/Bancolombia_Personas/js/modules/mobile-detect.js" defer=""></script>
+<script type="text/javascript" src="/Bancolombia_CapitalInt_estatico/themes/Bancolombia_Personas/js/modules/modules.js" defer=""></script>
+<script type="text/javascript" src="/Bancolombia_CapitalInt_estatico/themes/Bancolombia_Personas/js/modules/navegacion.js"></script>
+<script type="text/javascript" src="/Bancolombia_CapitalInt_estatico/themes/Bancolombia_Personas/js/modules/jquery-ui.js"></script>
+<script type="text/javascript" src="/Bancolombia_CapitalInt_estatico/themes/Bancolombia_Personas/js/modules/jquery.basictable.min.js" defer=""></script>
+<script type="text/javascript" src="/Bancolombia_CapitalInt_estatico/themes/Bancolombia_Personas/js/modules/wow.min.js" defer=""></script>
+
+
+<!-- Anti-flicker snippet (recommended)  -->
+<style>.async-hide { opacity: 0 !important} </style>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',4000,
+{'OPT-MCBPVQH':true});</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-W95WRK');
+</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-W95WRK');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.googleoptimize.com/optimize.js?id=OPT-MCBPVQH"></script>
+
+</head>
+<body class="toolbar-closed" style="">
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W95WRK" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+
+	<!-- site toolbar -->
+	<!-- site toolbar -->
+ 
+	<a href="#maincontent" class="sr-only sr-only-focusable">Skip to
+		main content</a>
+	<div class="row-fluid">
+		<div class="header">
+			<a class="icon-indicators">ico</a>
+			<div class="col-sm-3">
+				<a href="//www.bancolombia.com/empresas/" class="logo-header-bancolombia h">Bancolombia</a>
+			</div>
+			<div class="col-sm-6">
+				<a href="/empresas/capital-inteligente/" class="logo-header-capital">Capital Inteligente</a>
+			</div>
+			<div class="col-sm-3">
+				<div class="col-sm-8">
+					<div class="search">
+						<form action="/empresas/capital-inteligente/buscador">
+							<div class="input-group">
+								<input class="form-control" type="text" placeholder="Ingresa tu búsqueda" name="termino">
+								<span class="input-group-btn">
+									<button class="btn" type="submit"></button>
+									<i class="glyphicon glyphicon-search"></i>
+								</span>
+							</div>
+						</form>
+					</div>
+				</div>
+				<div class="col-sm-4">
+					<ul class="social">
+						<li>
+							<a href="https://www.linkedin.com/showcase/10590591/" target="_blank">LinkedIn</a>
+						</li>
+						<li>
+							<a href="https://twitter.com/Cap_Inteligente?lang=es" target="_blank">Twitter</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+		
+	<div id="main-content">
+		<!-- MAIN CONTENT GOES HERE! -->
+		
+
+ 
+
+
+
+
+
+		
+
+ 
+
+
+
+
+	
+		<div class="component-control id-Z7_416CH480L0DQ50A18GHPJIGPE0"><!-- lm:control dynamic spot injects markup of layout control -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            
+
+    <!-- Referencias para el menu -->
+<link rel="stylesheet" title="" href="/wcm/connect/www.bancolombia.com-26918/638cd21e-2093-4df9-b39e-7a6957505969/menu-capitalMinify.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-638cd21e-2093-4df9-b39e-7a6957505969-p6FUBER" type="text/css">
+<script>
+var parametrosTilde = new Object();
+parametrosTilde.listatilde = [
+{"wcm":"Actualidad economica y sectorial","dom":"Actualidad Económica y Sectorial"},
+{"wcm":"actualidad economica", "dom":"Actualidad económica"},
+{"wcm":"America Latina","dom":"América Latina"},
+{"wcm":"Analisis sectorial","dom":"Análisis sectorial"},
+{"wcm":"Analitica empresarial","dom":"Analítica empresarial"},
+{"wcm":"Aplicaciones moviles","dom":"Aplicaciones móviles"},
+{"wcm":"Cambio climatico","dom":"Cambio climático"},
+{"wcm":"Construccion colombiana","dom":"Construcción colombiana"},
+{"wcm":"credito","dom":"Crédito"},
+{"wcm":"Creditos","dom":"Créditos"},
+{"wcm":"Digitalizacion","dom":"Digitalización"},
+{"wcm":"Economia brasilera","dom":"Economía brasilera"},
+{"wcm":"Economia colombiana","dom":"Economía colombiana"},
+{"wcm":"Economia Latam","dom":"Economía Latam"},
+{"wcm":"Economia latinoamericana","dom":"Economía Latinoamericana"},
+{"wcm":"Economia mundial","dom":"Economía mundial"},
+{"wcm":"Educacion","dom":"Educación"},
+{"wcm":"Energias renovables","dom":"Energías renovables"},
+{"wcm":"Fundamentales economicos","dom":"Fundamentales económicos"},
+{"wcm":"Globalizacion","dom":"Globalización"},
+{"wcm":"Indicadores economicos","dom":"indicadores económicos"},
+{"wcm":"Inflacion","dom":"inflación"},
+{"wcm":"Innovacion","dom":"Innovación"},
+{"wcm":"Inversion","dom":"Inversión"},
+{"wcm":"Isagen","dom":"Isagén"},
+{"wcm":"Latinoamerica","dom":"Latinoamérica"},
+{"wcm":"Logistica","dom":"Logística"},
+{"wcm":"MacroeconomIa","dom":"Macroeconomía"},
+{"wcm":"Nuevas tecnologias","dom":"Nuevas tecnologías"},
+{"wcm":"Noticia economica","dom":"Noticia Económica"},
+{"wcm":"Noticias economicas internacionales","dom":"Noticias Económicas Internacionales"},
+{"wcm":"Opinion","dom":"Opinión"},
+{"wcm":"Petroleo","dom":"Petróleo"},
+{"wcm":"Portafolios de inversion","dom":"Portafolios de inversión"},
+{"wcm":"Proyecciones economicas","dom":"Proyecciones económicas"},
+{"wcm":"Sector lacteo","dom":"Sector lácteo"},
+{"wcm":"Tasa de interes","dom":"Tasa de interés"},
+{"wcm":"Tecnologia","dom":"Tecnología"},
+{"wcm":"Vehiculos","dom":"Vehículos"}
+]
+
+parametrosTilde.descripcion = [
+{"wcm":"Actualidad economica y sectorial", "dom": "Acontecer del mundo empresarial y de los principales sectores de la economía."},
+{"wcm":"Mercado de capitales", "dom": "Recomendaciones de inversión, gestión de riesgos con instrumentos del mercado de capitales y análisis fundamental del mercado de capitales."},
+{"wcm":"Opinion", "dom": "Acontecer del mundo empresarial y de los principales sectores de la economía."},
+{"wcm":"Innovacion", "dom": "Análisis sobre estrategias innovadoras que hoy por hoy transforman industrias en un mundo competitivo y a la vanguardia."},
+{"wcm":"Sostenibilidad", "dom": "Tendencias implementadas en Colombia y el mundo para lograr empresas sostenibles y comprometidas con el medioambiente."},
+{"wcm":"Tendencias globales", "dom": "Análisis de estrategias y prácticas que están implementando las empresas a nivel mundial."},
+{"wcm":"Infraestructura y Competitividad", "dom": "Un análisis de retos y oportunidades."}]
+
+
+</script>
+
+<script>
+
+$(document).ready(function(){
+    if ($(window).width() <= 767) {
+        jQuery('.header .search').prependTo('.navbar-collapse');
+    }
+});
+
+$(document).ready(function(){
+    $( ".icon-indicators" ).click(function() {
+        $('.cont-indicators').show();
+        $('.cont-indicators').prependTo('#main-content');
+    });
+    $( ".icon-close-indicators" ).click(function() {
+        $('.cont-indicators').hide();
+    });
+});
+
+$(document).ready(function(){
+    if ($(window).width() <= 767) {
+        jQuery('.cont-most-read').prependTo('.cont-upcoming-events');
+    }
+});
+
+
+function tildes(a) {
+	var out = a
+	for (var i = 0; i < parametrosTilde.listatilde.length; i++) {
+		if (parametrosTilde.listatilde[i].wcm === a ){
+			out = parametrosTilde.listatilde[i].dom
+		}
+	}
+	return out
+}
+
+
+</script>
+<script src="/wcm/connect/www.bancolombia.com-26918/681d6dd7-5f90-410c-98b6-7f4e123603a4/servicios.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-681d6dd7-5f90-410c-98b6-7f4e123603a4-ocUxa0S"></script>
+
+<div class="menu-capital">
+<div class="container-fluid">
+<nav class="navbar navbar-inverse">
+<div class="container-fluid">
+ <div class="navbar-header">
+ <button type="button" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" class="navbar-toggle collapsed"><span class="sr-only">Toggle navigation</span></button>
+ </div>
+  <div id="bs-example-navbar-collapse-1" class="collapse navbar-collapse">
+    <ul class="nav navbar-nav">
+    <li class="dropdown mega-dropdown item-home"> <a href="/empresas/capital-inteligente/" title="Inicio" target="_self" class="dropdown-toggle">Inicio</a></li>
+<li class="dropdown mega-dropdown item-dark-blue">
+<a href="/empresas/capital-inteligente/actualidad-economica-sectorial?categoria=Actualidad economica y sectorial" title="Actualidad económica" target="_self" class="dropdown-toggle">Actualidad económica</a>
+</li>
+
+
+
+
+
+<li class="dropdown mega-dropdown item-green">
+<a href="/empresas/capital-inteligente/mercado-capitales?categoria=Mercado de capitales" title="Mercado de Capitales" target="_self" class="dropdown-toggle">Mercado de capitales</a>
+</li>
+
+
+
+
+
+
+
+<li class="dropdown mega-dropdown menu-arrow item-orange">
+<a href="#" title="Tendencias" target="_self" data-toggle="dropdown" class="dropdown-toggle">Tendencias</a>
+
+
+<ul class="dropdown-menu mega-dropdown-menu"><li class="col-sm-12">
+ <a href="/empresas/capital-inteligente/tendencias/innovacion?subcategoria=Innovacion" title="Innovación">Innovación</a>
+</li><li class="col-sm-12">
+ <a href="/empresas/capital-inteligente/tendencias/sostenibilidad?subcategoria=Sostenibilidad" title="Sostenibilidad">Sostenibilidad</a>
+</li><li class="col-sm-12">
+ <a href="/empresas/capital-inteligente/tendencias/tendencias-globales?subcategoria=Tendencias globales" title="Tendencias globales">Tendencias globales</a>
+</li><li class="col-sm-12">
+ <a href="/empresas/capital-inteligente/tendencias/marketing?subcategoria=Marketing" title="Marketing">Marketing</a>
+</li></ul>
+</li>
+<li class="dropdown mega-dropdown item-blue">
+<a href="/empresas/capital-inteligente/opinion?categoria=Opinion" title="Opinión" target="_self" class="dropdown-toggle">Opinión</a>
+</li>
+
+
+
+
+
+
+
+<li class="dropdown mega-dropdown menu-arrow item-aqua">
+<a href="#" title="Negocios" target="_self" data-toggle="dropdown" class="dropdown-toggle">Negocios</a>
+
+
+<ul class="dropdown-menu mega-dropdown-menu"><li class="col-sm-12">
+ <a href="/wps/portal/empresas/capital-inteligente/negocios/casos-de-exito?subcategoria=casos de exito" title="Casos de Éxito">Casos de Éxito</a>
+</li><li class="col-sm-12">
+ <a href="/wps/portal/empresas/capital-inteligente/negocios/liderazgo?subcategoria=Liderazgo" title="Liderazgo">Liderazgo</a>
+</li><li class="col-sm-12">
+ <a href="/wps/portal/empresas/capital-inteligente/negocios/estrategia?subcategoria=Estrategia" title="Estrategia">Estrategia</a>
+</li></ul>
+</li>
+<li class="dropdown mega-dropdown item-purple">
+<a href="/empresas/capital-inteligente/investigaciones-economicas" title="Investigaciones económicas" target="_self" class="dropdown-toggle">Investigaciones económicas</a>
+</li>
+
+
+
+
+
+<li class="dropdown mega-dropdown item-gray">
+<a href="/empresas/capital-inteligente/especiales/informes-sectoriales" title="Informes Sectoriales" target="_self" class="dropdown-toggle">Informes Sectoriales</a>
+</li>
+
+
+
+
+
+<li class="dropdown mega-dropdown item-dark-blue">
+<a href="/empresas/capital-inteligente/especiales?categoria=Especial" title="Especiales" target="_self" class="dropdown-toggle">Especiales</a>
+</li>
+
+
+
+
+   <li><a href="/empresas/" title="Bancolombia" target="_self" class="logo-menu">Bancolombia</a></li> 
+  </ul>
+ </div>
+</div>
+</nav>
+</div>
+</div>
+
+
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+
+</div>
+	
+		<div class="component-control id-Z7_2G9I1K41N0DOE0QKBMQ2B5HD94"><!-- lm:control dynamic spot injects markup of layout control -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <div class="container">
+<div class="row">
+		<div class="col-xs-12">	
+<div><style type="text/css">.contebanner {
+  margin: 0 auto;
+  width: 1004px;
+}
+
+
+.bannerhome1 {
+
+
+  width: 480px;
+  display: inline-block;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+
+.bannerhome2 {
+
+  width: 480px;
+  display: inline-block;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+
+@media screen and (max-width: 767px) {
+
+
+
+  .contebanner {
+    width: 330px;
+  }
+
+
+
+
+  .bannerhome1 {
+
+
+    width: 330px;
+    margin-left: 1px;
+    margin-right: 1px;
+    padding-top: 70px;
+  }
+
+
+  .bannerhome2 {
+
+
+
+    width: 330px;
+    margin-left: 1px;
+    margin-right: 1px;
+  }
+}
+</style>
+<!--
+<p dir="ltr" style="text-align: center"><a href="/empresas/capital-inteligente/especiales/wobi-desarrollo-empresarial-2024"><img src="/wcm/connect/www.bancolombia.com-26918/64d4f8cf-2ba1-4990-b605-f7aff398801e/banner-inveco-485-150.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-64d4f8cf-2ba1-4990-b605-f7aff398801e-p6FUBER" alt="Informes sectoriales"  class="hidden-xs" style="width: 990px; height: 100%; margin: 0 auto" title="Tendencias para el desarrollo empresarial en 2024" /></a></p>
+
+<p dir="ltr" style="text-align: center"><a href="/empresas/capital-inteligente/especiales/wobi-desarrollo-empresarial-2024"><img src="/wcm/connect/www.bancolombia.com-26918/13e3cec7-f191-4edf-b550-caa7ff8d63f0/img-banner-top-mb.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-13e3cec7-f191-4edf-b550-caa7ff8d63f0-p6FUBER" alt="Tendencias para el desarrollo empresarial en 2024"  class="visible-xs img-responsive" title="Tendencias para el desarrollo empresarial en 2024" /></a></p>
+
+<div class="bannerhome2" dir="ltr"><a href="/empresas/capital-inteligente/especiales/generacion-consciente" id="CBner-tnytimes" target="_blank"><img alt="Especial de infraestructura 2021" class="img-responsive" src="/wcm/connect/56ead3d7-81a5-4279-a557-ccd5b2004c3d/generacion-consciente-home.jpg?MOD=AJPERES" title="Especial de infraestructura 2021" /></a></div>
+-->
+<div class="contebanner " dir="ltr">
+<div class="bannerhome1"><a href="https://link.chtbl.com/H9fvYRaf" target="_blank" id="CI-Bannersup-EspecialInfraestructura2023"><img src="/wcm/connect/www.bancolombia.com-26918/97f713f1-e3a9-4338-9033-75b3f9c694c6/mb-5-minutos.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-97f713f1-e3a9-4338-9033-75b3f9c694c6-p6FUBER" alt="5 minutos con los especialistas" class="img-responsive" title="5 minutos con los especialistas"></a></div>
+
+<div class="bannerhome1"><a href="/empresas/capital-inteligente/especiales/informes-sectoriales" id="CI-Bannersup-DisenarFuturos" target="_blank"><img src="/wcm/connect/www.bancolombia.com-26918/15f97ab4-07c1-4bd0-8c0f-cc94981a1d65/mb-informes.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-15f97ab4-07c1-4bd0-8c0f-cc94981a1d65-p6FUBER" alt="Informes sectoriales" class="img-responsive" title="Informes sectoriales"></a></div>
+
+<hr dir="ltr"></div>
+</div>
+</div>
+	</div>
+</div>
+
+
+			
+	
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+
+</div>
+	
+		<div class="component-control id-Z7_416CH480L0DQ50A18GHPJIGPE2"><!-- lm:control dynamic spot injects markup of layout control -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <div class="container-fluid">
+
+<div class="row">
+
+  <div class="col-sm-9" style="display:block;">
+    <link rel="stylesheet" href="/wcm/connect/www.bancolombia.com-26918/09dd0d5a-d637-43b1-ab24-58f098e4e83a/ultimas-noticiasMinify.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-09dd0d5a-d637-43b1-ab24-58f098e4e83a-p6FUBER">
+
+<script>
+var video = []
+</script>
+<script>
+var art = [];
+art.push({
+'id' : "cee2e64a-dec6-4b18-b878-11adaedb996c",
+'path' : "/capitalinteligente/capital+inteligente/actualidad+economica+y+sectorial/asperspectivasdelossectoreseconomicosen2025/contperspectivasdelossectoreseconomicosen2025",
+'titulo' : "Perspectivas de los sectores económicos en 2025",
+'fecha'  : "11-10-2024",
+'catego' : "/CapitalInteligente/Categoria Capital Inteligente/Actualidad economica y sectorial",
+'imagen' : "/wcm/connect/www.bancolombia.com-26918/7a6aad89-f79c-4199-81d1-d68e22901caa/perspectivas-sectoriales-2025-portal.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-7a6aad89-f79c-4199-81d1-d68e22901caa-p9ZdH57",
+'url':"/empresas/capital-inteligente/actualidad-economica-sectorial/perspectivas-sectores-economicos-colombia-2025",
+'clas':"tit-dark-blue",
+'desc':"Agroindustria, construcción, energía y comercio serán algunos de los sectores que tendrán grandes desafíos en 2025. Conoce las perspectivas de nuestros expertos y los retos de los sectores productivos en Colombia. Lee más aquí."});art.push({
+'id' : "83169095-7b92-4380-b697-69e186c38460",
+'path' : "/capitalinteligente/capital+inteligente/especiales+capital+inteligente/asgeneracionconsciente2024/congeneracionconciente2024",
+'titulo' : "Especial Generación Consciente 2024: construir realidades",
+'fecha'  : "11-10-2024",
+'catego' : "/CapitalInteligente/Categoria Capital Inteligente/Especiales",
+'imagen' : "/wcm/connect/www.bancolombia.com-26918/82e4f570-e9f9-48b8-b57a-a2a5da9449e4/destacada-gc.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-82e4f570-e9f9-48b8-b57a-a2a5da9449e4-p9Y472W",
+'url':"/empresas/capital-inteligente/especiales/generacion-consciente-2024-construir-realidades",
+'clas':"tit-dark-blue",
+'desc':"Cuatro mentes en brillantes en gobernanza corporativa, sostenibilidad, IA y desarrollo de grandes proyectos llegan a nuestro especial de Generación Consciente 2024, una fuente de inspiración para esos líderes que construyen nuevas realidades. Léelo aquí."});art.push({
+'id' : "7df385db-41c2-4cbb-9714-1954260789aa",
+'path' : "/capitalinteligente/capital+inteligente/actualidad+economica+y+sectorial/asimpactosdelareformapensionalencolombiaafpfcpmercadodecapitalesempresasypersonasnaturales/contimpactosdelareformapensionalencolombiaafpfcpmercadodecapitalesempresasypersonasnaturales",
+'titulo' : "Impactos de la reforma pensional en Colombia: AFP, FCP, mercado de capitales, empresas y personas naturales",
+'fecha'  : "08-10-2024",
+'catego' : "/CapitalInteligente/Categoria Capital Inteligente/Actualidad economica y sectorial",
+'imagen' : "/wcm/connect/www.bancolombia.com-26918/673e3e34-230b-4c59-8496-0421bac70a4f/dk-pensiones-colombia.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-673e3e34-230b-4c59-8496-0421bac70a4f-p9J1bg3",
+'url':"/empresas/capital-inteligente/actualidad-economica-sectorial/como-va-reforma-pensional",
+'clas':"tit-dark-blue",
+'desc':"Colombia ha experimentado una transformación significativa en su sistema pensional con la reciente aprobación de la Ley 2381 de 2024. Esta reforma trae varios impactos para diferentes actores en el país. Conoce nuestro análisis de las implicaciones."});art.push({
+'id' : "78ae87df-12b7-4953-912c-f1c93ad915af",
+'path' : "/capitalinteligente/capital+inteligente/tendencias/innovacion/aspodcastinnovacionep125comosetransformaunaempresadesdeelmarketingylainnovacion/contpodcastinnovacionep125comosetransformaunaempresadesdeelmarketingylainnovacion",
+'titulo' : "[Podcast] Innovación ep.125. &iquest;Cómo se transforma una empresa desde el marketing y la innovación?",
+'fecha'  : "30-09-2024",
+'catego' : "/CapitalInteligente/Categoria Capital Inteligente/Tendencias",
+'imagen' : "/wcm/connect/www.bancolombia.com-26918/4a51718c-ef02-4c75-af7a-847294718031/innovacion-ep-125-marketing-innovacion.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-4a51718c-ef02-4c75-af7a-847294718031-p9ItOTW",
+'url':"/empresas/capital-inteligente/tendencias/innovacion/podcast-innovacion-marketing-transformar-empresas",
+'clas':"tit-dark-blue",
+'desc':"Agilidad, confianza y datos, son tres elementos clave para innovar desde el marketing y apalancar el crecimiento de las empresas. Descubre detalles de cómo implementar esto y los consejos de un experto para transformar tu organización."})</script>
+
+      <div class="component-news ng-scope" id="appArticulo" ng-controller="ctrlAp4 as ctrl4">
+            <!-- ngRepeat: art1 in ctrl4.artp1 --><div class="col-sm-8 ng-scope" ng-repeat="art1 in ctrl4.artp1">
+              <div class="news-list">
+                  <div class="content-media ng-hide" ng-show="ctrl4.videoShow">
+                      <div class="embed-responsive embed-responsive-16by9">
+                        <iframe ng-src="" frameborder="0" allowfullscreen="" data-gtm-yt-inspected-153="true" data-gtm-yt-inspected-168234102_248="true" data-gtm-yt-inspected-168234102_250="true" data-gtm-yt-inspected-168234102_252="true" data-gtm-yt-inspected-168234102_254="true" data-gtm-yt-inspected-168234102_883="true"></iframe>
+                      </div>
+                  </div>
+                  <a href="/empresas/capital-inteligente/actualidad-economica-sectorial/perspectivas-sectores-economicos-colombia-2025" target="_self" ng-show="!ctrl4.videoShow" class=""><img src="/wcm/connect/www.bancolombia.com-26918/7a6aad89-f79c-4199-81d1-d68e22901caa/perspectivas-sectoriales-2025-portal.jpg?MOD=AJPERES&amp;amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-7a6aad89-f79c-4199-81d1-d68e22901caa-p9ZdH57" alt="Noticia" class="img-responsive"></a>
+                <h3><a href="/empresas/capital-inteligente/actualidad-economica-sectorial/perspectivas-sectores-economicos-colombia-2025"><strong ng-bind-html="art1.titulo" class="ng-binding">Perspectivas de los sectores económicos en 2025</strong></a></h3>
+                <h4><span class="tit-dark-blue">Actualidad Económica y Sectorial</span><strong class="ng-binding">11 de octubre 2024</strong></h4>
+                <p class="ng-binding">Agroindustria, construcción, energía y comercio serán algunos de los sectores que tendrán grandes desafíos en 2025. Conoce las perspectivas de nuestros expertos y los retos de los sectores productivos en Colombia. Lee más aquí.</p>
+              </div>
+            </div><!-- end ngRepeat: art1 in ctrl4.artp1 -->
+            <div class="content-news">
+              <div class="news-inline">
+                <!-- ngRepeat: art2 in ctrl4.artp2 --><div class="col-sm-4 ng-scope" ng-repeat="art2 in ctrl4.artp2">
+                  <div class="news-list">
+                    <div class="img-layer">            
+                      <a href="/empresas/capital-inteligente/especiales/generacion-consciente-2024-construir-realidades" target="_self">
+                        <img src="/wcm/connect/www.bancolombia.com-26918/82e4f570-e9f9-48b8-b57a-a2a5da9449e4/destacada-gc.jpg?MOD=AJPERES&amp;amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-82e4f570-e9f9-48b8-b57a-a2a5da9449e4-p9Y472W" alt="Noticia" class="img-responsive">
+                      </a>
+                    </div>            
+                    <h3><a href="/empresas/capital-inteligente/especiales/generacion-consciente-2024-construir-realidades"><strong ng-bind-html="art2.titulo" class="ng-binding">Especial Generación Consciente 2024: construir realidades</strong></a></h3>
+                    <h4><span class="tit-dark-blue">Especiales</span><strong class="ng-binding">11 de octubre 2024</strong></h4>
+                  </div>
+                </div><!-- end ngRepeat: art2 in ctrl4.artp2 --><div class="col-sm-4 ng-scope" ng-repeat="art2 in ctrl4.artp2">
+                  <div class="news-list">
+                    <div class="img-layer">            
+                      <a href="/empresas/capital-inteligente/actualidad-economica-sectorial/como-va-reforma-pensional" target="_self">
+                        <img src="/wcm/connect/www.bancolombia.com-26918/673e3e34-230b-4c59-8496-0421bac70a4f/dk-pensiones-colombia.jpg?MOD=AJPERES&amp;amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-673e3e34-230b-4c59-8496-0421bac70a4f-p9J1bg3" alt="Noticia" class="img-responsive">
+                      </a>
+                    </div>            
+                    <h3><a href="/empresas/capital-inteligente/actualidad-economica-sectorial/como-va-reforma-pensional"><strong ng-bind-html="art2.titulo" class="ng-binding">Impactos de la reforma pensional en Colombia: AFP, FCP, mercado de capitales, empresas y personas naturales</strong></a></h3>
+                    <h4><span class="tit-dark-blue">Actualidad Económica y Sectorial</span><strong class="ng-binding">08 de octubre 2024</strong></h4>
+                  </div>
+                </div><!-- end ngRepeat: art2 in ctrl4.artp2 --><div class="col-sm-4 ng-scope" ng-repeat="art2 in ctrl4.artp2">
+                  <div class="news-list">
+                    <div class="img-layer">            
+                      <a href="/empresas/capital-inteligente/tendencias/innovacion/podcast-innovacion-marketing-transformar-empresas" target="_self">
+                        <img src="/wcm/connect/www.bancolombia.com-26918/4a51718c-ef02-4c75-af7a-847294718031/innovacion-ep-125-marketing-innovacion.jpg?MOD=AJPERES&amp;amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-4a51718c-ef02-4c75-af7a-847294718031-p9ItOTW" alt="Noticia" class="img-responsive">
+                      </a>
+                    </div>            
+                    <h3><a href="/empresas/capital-inteligente/tendencias/innovacion/podcast-innovacion-marketing-transformar-empresas"><strong ng-bind-html="art2.titulo" class="ng-binding">[Podcast] Innovación ep.125. ¿Cómo se transforma una empresa desde el marketing y la innovación?</strong></a></h3>
+                    <h4><span class="tit-dark-blue">Tendencias</span><strong class="ng-binding">30 de septiembre 2024</strong></h4>
+                  </div>
+                </div><!-- end ngRepeat: art2 in ctrl4.artp2 -->
+              </div>
+            </div>
+      </div>
+
+
+<script type="text/javascript">
+var app4art=angular.module("appArt",["ngSanitize"]);app4art.controller("ctrlAp4",["$sce","$sanitize",function(e,t){var a=this;a.artp2=[];video.length;function r(e){var t=e.split("-"),a=t[1]/1;return t[0]+" de "+["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"][a-1]+" "+t[2]}function o(e){return e.substring(e.lastIndexOf("/")+1,e.length)}video.length>0&&video[0].on/1==1?function(){a.videoShow=!0;for(var t=0;t<1;t++)video[t].fecha=r(video[t].fecha),video[t].catego=tildes(o(video[t].catego)),video[t].video=e.trustAsResourceUrl(video[t].video);a.artp1=video;for(var t=0;t<3;t++)art[t].fecha=r(art[t].fecha),art[t].catego=tildes(o(art[t].catego)),a.artp2.push(art[t])}():function(){a.videoShow=!1;for(var e=0;e<4;e++)0===e?(art[e].fecha=r(art[e].fecha),art[e].catego=tildes(o(art[e].catego)),a.artp1=[art[e]]):(art[e].fecha=r(art[e].fecha),art[e].catego=tildes(o(art[e].catego)),a.artp2.push(art[e]))}()}]);
+</script>
+
+<script type="text/javascript">
+          angular.element(document).ready(function() {
+              var myDiv1 = document.getElementById("appArticulo");
+              angular.bootstrap(appArticulo, ["appArt"]);
+          });
+</script>
+
+
+  </div>
+  <div class="col-sm-3" style="display:block;">
+    <div class="cont-indicators">
+<a class="icon-close-indicators">X</a>
+<h2>Indicadores</h2>
+<div class="cont-iframe">
+<iframe src="https://series1.cma.com.br/capitalinteligente/" width="214" height="424" data-gtm-yt-inspected-153="true" data-gtm-yt-inspected-168234102_248="true" data-gtm-yt-inspected-168234102_250="true" data-gtm-yt-inspected-168234102_252="true" data-gtm-yt-inspected-168234102_254="true" data-gtm-yt-inspected-168234102_883="true"></iframe>
+<small class="text-center" style="display: block; margin-top: -20px;">Powered by CMA</small>
+</div>
+</div>
+<div class="subscribe-bulletin">    
+  <h2>Suscríbase <span>a nuestro boletín</span></h2>
+  <div class="subscribe"><a href="/wps/portal/empresas/capital-inteligente/suscripciones/">Suscribirse</a></div>
+</div>
+
+  </div>
+  <div class="col-sm-1" style="display:none;">
+    
+  </div>
+  <div class="col-sm-1" style="display:none;">
+    
+  </div>
+</div>
+
+</div>
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+
+</div>
+	
+		<div class="component-control id-Z7_416CH480L0DQ50A18GHPJIGPE1"><!-- lm:control dynamic spot injects markup of layout control -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <div class="container-fluid">
+
+<div class="row">
+
+  <div class="col-sm-4" style="display:block;">
+    <link rel="stylesheet" href="/wcm/connect/www.bancolombia.com-26918/1147f13d-2378-46a4-8d86-6f6f30f39c13/slide-capitalMinify.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-1147f13d-2378-46a4-8d86-6f6f30f39c13-p6FUBER" type="text/css">
+
+<div class="news-opinion">
+	<h2>Opinión</h2>
+	<div class="row-fluid slide-etapas">
+	  <div class="container-fluid slide">
+	    <div class="row">
+	        <div class="owl-carousel owl-theme owl-loaded">
+	          
+
+
+
+
+
+
+	        <div class="owl-stage-outer owl-height" style="height: 476px;"><div class="owl-stage" style="transform: translate3d(-588px, 0px, 0px); transition: all; width: 2058px;"><div class="owl-item cloned" style="width: 294px; margin-right: 0px;"><div class="item">
+        <h2><a title="El rol del crédito en la recuperación económica de 2021" target="_self" href="/empresas/capital-inteligente/opinion/rol-credito-en-recuperacion-economica-2021"><strong>El rol del crédito en la recuperación económica de 2021</strong></a></h2>
+        <h3>Juan Pablo Espinosa Arango - Dirección de investigaciones económicas, sectoriales y de mercados / Bancolombia  </h3>
+        <img src="/wcm/connect/www.bancolombia.com-26918/ff9d29e0-997d-499d-bfc3-dafe69df2d8a/rol-credito-recuperacion-economica-2021.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-ff9d29e0-997d-499d-bfc3-dafe69df2d8a-p6FUBER" alt="El rol del crédito en la recuperación económica de 2021" title="El rol del crédito en la recuperación económica de 2021">
+
+
+
+
+        <p dir="ltr">La reactivación económica en Colombia tras el covid-19 no hubiera tenido la magnitud vista sin el sobresaliente comportamiento del crédito, afirma Juan Pablo Espinosa, director del equipo de investigaciones económicas de Bancolombia. Esta es su perspectiva sobre qué esperar para 2022.</p>
+</div></div><div class="owl-item cloned" style="width: 294px; margin-right: 0px;"><div class="item">
+        <h2><a title="[Charla virtual] Una mirada a la situación sociopolítica que vivimos en la actualidad y su impacto en la economía" href="/empresas/capital-inteligente/opinion/situacion-sociopolitica-colombia-2021-e-impacto-economico" target=""><strong>[Charla virtual] Una mirada a la situación sociopolítica que vivimos en la actualidad y su impacto en la economía</strong></a></h2>
+        <h3>Sandra Borda - Columnista de El Tiempo  / Ricardo Ávila - Analista senior de El Tiempo / Comité editorial - Capital Inteligente  Grupo Bancolombia </h3>
+        <img src="/wcm/connect/www.bancolombia.com-26918/7f9bbd24-0a4c-47d6-944d-4ee2fe4d402c/situacion-sociopolitica-colombia-2021.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-7f9bbd24-0a4c-47d6-944d-4ee2fe4d402c-p6FUBER" alt="[Charla virtual] Una mirada a la situación sociopolítica que vivimos en la actualidad y su impacto en la economía" title="[Charla virtual] Una mirada a la situación sociopolítica que vivimos en la actualidad y su impacto en la economía" class="img-responsive center-block">
+
+
+
+
+
+
+
+
+
+        <p dir="ltr">Las actuales perspectivas económicas están ligadas en muy buena medida por lo que ocurra con la resolución de todos los elementos políticos y sociales que hoy confluyen en Colombia. Por eso conversamos con dos columnistas para conocer sus visiones sobre lo que han generado las movilizaciones sociales a nivel político y económico, también sobre la esperada reforma tributaria y sobre las oportunidades y los retos que la situación actual implica para este gobierno y los futuros mandatarios.</p>
+</div></div><div class="owl-item active" style="width: 294px; margin-right: 0px;"><div class="item">
+        <h2><a title="[Opinión] " la="" banca="" del="" futuro="" se="" construye="" con="" las="" decisiones="" de="" hoy""="" target="_self" href="/empresas/capital-inteligente/opinion/banca-futuro-colombia-mauricio-rosillo-bancolombia"><strong>[Opinión] "La banca del futuro se construye con las decisiones de hoy"</strong></a></h2>
+        <h3>Mauricio Rosillo - Vicepresidente de Negocios</h3>
+        <img src="/wcm/connect/www.bancolombia.com-26918/124bf9c7-1131-4047-9003-8a09d3eb994a/banca-futuro-colombia-ver2.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-124bf9c7-1131-4047-9003-8a09d3eb994a-p6FUBER" alt="¿Cuál es el futuro de la banca en Colombia? Visión de Mauricio Rosillo, vicepresidente de Negocios del Grupo Bancolombia" tittle="¿Cuál es el futuro de la banca en Colombia? Visión de Mauricio Rosillo, vicepresidente de Negocios del Grupo Bancolombia" class="img-responsive center-block">
+
+
+
+
+
+        <p dir="ltr">Aunque la tecnología es una de las grandes palancas para el futuro de la banca en Colombia, hay otros aspectos que cobran mucha relevancia. Conoce aquí la visión de Mauricio Rosillo, vicepresidente de Negocios del Grupo Bancolombia, quien cuenta detalles.&nbsp;&nbsp;</p>
+
+</div></div><div class="owl-item" style="width: 294px; margin-right: 0px;"><div class="item">
+        <h2><a title="El rol del crédito en la recuperación económica de 2021" target="_self" href="/empresas/capital-inteligente/opinion/rol-credito-en-recuperacion-economica-2021"><strong>El rol del crédito en la recuperación económica de 2021</strong></a></h2>
+        <h3>Juan Pablo Espinosa Arango - Dirección de investigaciones económicas, sectoriales y de mercados / Bancolombia  </h3>
+        <img src="/wcm/connect/www.bancolombia.com-26918/ff9d29e0-997d-499d-bfc3-dafe69df2d8a/rol-credito-recuperacion-economica-2021.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-ff9d29e0-997d-499d-bfc3-dafe69df2d8a-p6FUBER" alt="El rol del crédito en la recuperación económica de 2021" title="El rol del crédito en la recuperación económica de 2021">
+
+
+
+
+        <p dir="ltr">La reactivación económica en Colombia tras el covid-19 no hubiera tenido la magnitud vista sin el sobresaliente comportamiento del crédito, afirma Juan Pablo Espinosa, director del equipo de investigaciones económicas de Bancolombia. Esta es su perspectiva sobre qué esperar para 2022.</p>
+</div></div><div class="owl-item" style="width: 294px; margin-right: 0px;"><div class="item">
+        <h2><a title="[Charla virtual] Una mirada a la situación sociopolítica que vivimos en la actualidad y su impacto en la economía" href="/empresas/capital-inteligente/opinion/situacion-sociopolitica-colombia-2021-e-impacto-economico" target=""><strong>[Charla virtual] Una mirada a la situación sociopolítica que vivimos en la actualidad y su impacto en la economía</strong></a></h2>
+        <h3>Sandra Borda - Columnista de El Tiempo  / Ricardo Ávila - Analista senior de El Tiempo / Comité editorial - Capital Inteligente  Grupo Bancolombia </h3>
+        <img src="/wcm/connect/www.bancolombia.com-26918/7f9bbd24-0a4c-47d6-944d-4ee2fe4d402c/situacion-sociopolitica-colombia-2021.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-7f9bbd24-0a4c-47d6-944d-4ee2fe4d402c-p6FUBER" alt="[Charla virtual] Una mirada a la situación sociopolítica que vivimos en la actualidad y su impacto en la economía" title="[Charla virtual] Una mirada a la situación sociopolítica que vivimos en la actualidad y su impacto en la economía" class="img-responsive center-block">
+
+
+
+
+
+
+
+
+
+        <p dir="ltr">Las actuales perspectivas económicas están ligadas en muy buena medida por lo que ocurra con la resolución de todos los elementos políticos y sociales que hoy confluyen en Colombia. Por eso conversamos con dos columnistas para conocer sus visiones sobre lo que han generado las movilizaciones sociales a nivel político y económico, también sobre la esperada reforma tributaria y sobre las oportunidades y los retos que la situación actual implica para este gobierno y los futuros mandatarios.</p>
+</div></div><div class="owl-item cloned" style="width: 294px; margin-right: 0px;"><div class="item">
+        <h2><a title="[Opinión] " la="" banca="" del="" futuro="" se="" construye="" con="" las="" decisiones="" de="" hoy""="" target="_self" href="/empresas/capital-inteligente/opinion/banca-futuro-colombia-mauricio-rosillo-bancolombia"><strong>[Opinión] "La banca del futuro se construye con las decisiones de hoy"</strong></a></h2>
+        <h3>Mauricio Rosillo - Vicepresidente de Negocios</h3>
+        <img src="/wcm/connect/www.bancolombia.com-26918/124bf9c7-1131-4047-9003-8a09d3eb994a/banca-futuro-colombia-ver2.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-124bf9c7-1131-4047-9003-8a09d3eb994a-p6FUBER" alt="¿Cuál es el futuro de la banca en Colombia? Visión de Mauricio Rosillo, vicepresidente de Negocios del Grupo Bancolombia" tittle="¿Cuál es el futuro de la banca en Colombia? Visión de Mauricio Rosillo, vicepresidente de Negocios del Grupo Bancolombia" class="img-responsive center-block">
+
+
+
+
+
+        <p dir="ltr">Aunque la tecnología es una de las grandes palancas para el futuro de la banca en Colombia, hay otros aspectos que cobran mucha relevancia. Conoce aquí la visión de Mauricio Rosillo, vicepresidente de Negocios del Grupo Bancolombia, quien cuenta detalles.&nbsp;&nbsp;</p>
+
+</div></div><div class="owl-item cloned" style="width: 294px; margin-right: 0px;"><div class="item">
+        <h2><a title="El rol del crédito en la recuperación económica de 2021" target="_self" href="/empresas/capital-inteligente/opinion/rol-credito-en-recuperacion-economica-2021"><strong>El rol del crédito en la recuperación económica de 2021</strong></a></h2>
+        <h3>Juan Pablo Espinosa Arango - Dirección de investigaciones económicas, sectoriales y de mercados / Bancolombia  </h3>
+        <img src="/wcm/connect/www.bancolombia.com-26918/ff9d29e0-997d-499d-bfc3-dafe69df2d8a/rol-credito-recuperacion-economica-2021.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-ff9d29e0-997d-499d-bfc3-dafe69df2d8a-p6FUBER" alt="El rol del crédito en la recuperación económica de 2021" title="El rol del crédito en la recuperación económica de 2021">
+
+
+
+
+        <p dir="ltr">La reactivación económica en Colombia tras el covid-19 no hubiera tenido la magnitud vista sin el sobresaliente comportamiento del crédito, afirma Juan Pablo Espinosa, director del equipo de investigaciones económicas de Bancolombia. Esta es su perspectiva sobre qué esperar para 2022.</p>
+</div></div></div></div><div class="owl-controls"><div class="owl-nav"><div class="owl-prev" style="">&lt;</div><div class="owl-next" style="">&gt;</div></div><div class="owl-dots" style="display: block;"><div class="owl-dot active"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div></div></div></div>
+	    </div>
+	  </div>
+	</div>
+</div>
+  </div>
+  <div class="col-sm-8" style="display:block;">
+    <div class="row">
+<link rel="stylesheet" href="/wcm/connect/www.bancolombia.com-26918/2a8f1704-6185-4575-90a4-7349cf164a4e/categorias-noticias.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-2a8f1704-6185-4575-90a4-7349cf164a4e-p6FUBER">
+
+<div class="item-category category-topicality">
+<h2>Actualidad económica y sectorial</h2>
+<div class="cont-category-all">
+<div class="cont-category">
+
+<div class="col-sm-6">
+<div class="img-layer">
+<a href="/empresas/capital-inteligente/actualidad-economica-sectorial/perspectivas-sectores-economicos-colombia-2025 ">
+<img src="/wcm/connect/www.bancolombia.com-26918/7a6aad89-f79c-4199-81d1-d68e22901caa/perspectivas-sectoriales-2025-portal.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-7a6aad89-f79c-4199-81d1-d68e22901caa-p9ZdH57" alt="Indicadores" class="img-responsive">
+</a>
+</div>
+<h3><a href="/empresas/capital-inteligente/actualidad-economica-sectorial/perspectivas-sectores-economicos-colombia-2025 ">Perspectivas de los sectores económicos en 2025 </a></h3>
+<p>Agroindustria, construcción, energía y comercio serán algunos de los sectores que tendrán grandes desafíos en 2025. Conoce las perspectivas de nuestros expertos y los retos de los sectores productivos en Colombia. Lee más aquí.</p>
+</div>
+
+<div class="col-sm-6">
+<div class="img-layer">
+<a href="/empresas/capital-inteligente/actualidad-economica-sectorial/como-va-reforma-pensional ">
+<img src="/wcm/connect/www.bancolombia.com-26918/673e3e34-230b-4c59-8496-0421bac70a4f/dk-pensiones-colombia.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-673e3e34-230b-4c59-8496-0421bac70a4f-p9J1bg3" alt="Indicadores" class="img-responsive">
+</a>
+</div>
+<h3><a href="/empresas/capital-inteligente/actualidad-economica-sectorial/como-va-reforma-pensional ">Impactos de la reforma pensional en Colombia: AFP, FCP, mercado de capitales, empresas y personas naturales </a></h3>
+<p>Colombia ha experimentado una transformación significativa en su sistema pensional con la reciente aprobación de la Ley 2381 de 2024. Esta reforma trae varios impactos para diferentes actores en el país. Conoce nuestro análisis de las implicaciones. </p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<link rel="stylesheet" href="">
+
+<div class="item-category category-market">
+<h2>Mercado de capitales</h2>
+<div class="cont-category-all">
+<div class="cont-category">
+<div class="col-sm-6">
+<div class="img-layer">
+<a href="/empresas/capital-inteligente/mercado-capitales/perspectivas-inversion-septiembre-2024">
+<img src="/wcm/connect/www.bancolombia.com-26918/76951385-d24a-42fa-86ce-f8358543a624/estrategias-inversion-septiembre-2024.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-76951385-d24a-42fa-86ce-f8358543a624-p8ALXwM" alt="Indicadores" class="img-responsive">
+</a>
+</div>
+<h3><a href="/empresas/capital-inteligente/mercado-capitales/perspectivas-inversion-septiembre-2024">¿En qué invertir en septiembre y octubre de 2024? </a></h3>
+<p>Pese al crecimiento económico sólido y la inflación con tendencia a la baja, los datos del mercado laboral muestran debilitamiento. Conoce aquí cómo impacta esto los mercados financieros y qué hacer en materia de inversión en septiembre y octubre de 2024.</p>
+</div>
+
+
+<div class="col-sm-6">
+<div class="img-layer">
+<a href="/empresas/capital-inteligente/mercado-capitales/perspectivas-inversion-agosto-2024">
+<img src="/wcm/connect/www.bancolombia.com-26918/30d401fc-d080-464c-a37a-26191c579633/_dk-estrategias-inversion-agosto-2024.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-30d401fc-d080-464c-a37a-26191c579633-p6FUBER" alt="Indicadores" class="img-responsive">
+</a>
+</div>
+<h3><a href="/empresas/capital-inteligente/mercado-capitales/perspectivas-inversion-agosto-2024">Estrategias de inversión para agosto y septiembre 2024 </a></h3>
+<p>Mientras Latinoamérica se consolida como el mercado de preferencia para asumir riesgos en renta fija, Estados Unidos es una buena alternativa para la renta variable. Conoce aquí las perspectivas de inversión para agosto y septiembre de 2024.</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+</div>
+</div>
+</div>
+  </div>
+  <div class="col-sm-1" style="display:none;">
+    
+  </div>
+  <div class="col-sm-1" style="display:none;">
+    
+  </div>
+</div>
+
+</div>
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+
+</div>
+	
+		<div class="component-control id-Z7_416CH480LGSP50A1EAJG3U6F46"><!-- lm:control dynamic spot injects markup of layout control -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <div class="container-fluid">
+
+<div class="row">
+
+  <div class="col-sm-4 cont-most-read" style="display:block;">
+        <link rel="stylesheet" href="/wcm/connect/www.bancolombia.com-26918/9652c17e-35fe-4d78-a6d0-5382a2ca1e96/mas-leido.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-9652c17e-35fe-4d78-a6d0-5382a2ca1e96-p1.rZ15" type="text/css">
+      <div class="row-fluid ng-scope" id="id_applosMas" lange="es" ng-controller="ctrlMas as ctrl">
+        <div class="most-read" ng-show="ctrl.visualResul">   
+          <h2>Los más leídos</h2>
+          <!-- ngRepeat: mas in ctrl.leidos -->
+          </div>
+        </div>
+<script src="/wcm/connect/www.bancolombia.com-26918/125dcf12-1ded-48ee-8f08-5bc335beccc0/moment.min.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-125dcf12-1ded-48ee-8f08-5bc335beccc0-mS7CaiM"></script>
+
+<script>
+var parametrosMas = new Object();
+parametrosMas.urlMas = '/buscadorSalaPrensa/rest/servicio/masLeidosCapitalInteligente/';
+parametrosMas.urlCategoria = '##?categoria='
+parametrosMas.numeroBus = 10
+var appEvent = angular.module('applosMas', []);
+appEvent.controller('ctrlMas', ['$http','$filter', function($http,$filter){
+        var self = this
+	self.visualResul = true
+        var x = moment().add(-8,'d')
+        var y = moment().add(-1,'d')
+        var urlFull = parametrosMas.urlMas + '/' + x.format('YYYY-MM-DD') + '/' + y.format('YYYY-MM-DD') + '/' + parametrosMas.numeroBus        
+        self.urlCategoria = parametrosMas.urlCategoria
+        $http.get(urlFull).success(function(dataAll) {
+			self.visualResul = true
+			for (var i = 0; i < dataAll.length; i++) {
+				dataAll[i].categorias = tildes(dataAll[i].categorias[0])
+                                dataAll[i].clasColor = dataAll[i].classCategoria[0]
+			}
+			self.leidos = dataAll
+         }).error(function(data, status, headers, config) {
+               self.visualResul = false
+         });
+
+}])
+</script>
+
+<script type="text/javascript">
+          angular.element(document).ready(function() {
+              var myDiv1 = document.getElementById("id_applosMas");
+              angular.bootstrap(id_applosMas, ["applosMas"]);
+          });
+</script>
+  </div>
+  <div class="col-sm-8" style="display:block;">
+    <div class="row">
+<link rel="stylesheet" href="">
+
+<div class="item-category category-trends">
+<h2>Tendencias</h2>
+<div class="cont-category-all">
+<div class="cont-category">
+<div class="col-sm-6">
+<div class="img-layer">
+<a href="/empresas/capital-inteligente/tendencias/innovacion/podcast-innovacion-marketing-transformar-empresas ">
+<img src="/wcm/connect/www.bancolombia.com-26918/4a51718c-ef02-4c75-af7a-847294718031/innovacion-ep-125-marketing-innovacion.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-4a51718c-ef02-4c75-af7a-847294718031-p9ItOTW" alt="Indicadores" class="img-responsive">
+</a>
+</div>
+<h3><a href="/empresas/capital-inteligente/tendencias/innovacion/podcast-innovacion-marketing-transformar-empresas ">[Podcast] Innovación ep.125. ¿Cómo se transforma una empresa desde el marketing y la innovación? </a></h3>
+<p>Agilidad, confianza y datos, son tres elementos clave para innovar desde el marketing y apalancar el crecimiento de las empresas. Descubre detalles de cómo implementar esto y los consejos de un experto para transformar tu organización.</p>
+</div>
+
+
+<div class="col-sm-6">
+<div class="img-layer">
+<a href="/empresas/capital-inteligente/tendencias/innovacion/implementar-inteligencia-artificial-empresas">
+<img src="/wcm/connect/www.bancolombia.com-26918/64630ea3-4288-44cc-adbc-480b9308bb62/_dk-ia-empresas-freddy-vega.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-64630ea3-4288-44cc-adbc-480b9308bb62-p9ps.N6" alt="Indicadores" class="img-responsive">
+</a>
+</div>
+<h3><a href="/empresas/capital-inteligente/tendencias/innovacion/implementar-inteligencia-artificial-empresas">¿Por qué es tan importante la inteligencia artificial en las empresas según Freddy Vega? </a></h3>
+<p>El cofundador y CEO de Platzi, Freddy Vega, nos ayuda a entender por qué es tan relevante la inteligencia artificial para las empresas, cuál es su ventaja frente a la capacidad humana y algunos ejemplos para sacar todo su potencial. Lee más aquí. </p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+</div>
+</div>
+</div>
+  </div>
+  <div class="col-sm-1" style="display:none;">
+    
+  </div>
+  <div class="col-sm-1" style="display:none;">
+    
+  </div>
+</div>
+
+</div>
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+
+</div>
+	
+		<div class="component-control id-Z7_416CH480LGSP50A1EAJG3U6F45"><!-- lm:control dynamic spot injects markup of layout control -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <div class="row-fluid videos" style="padding-bottom: 30px;">
+  <div class="container-fluid">
+    <h2><strong>Contenido</strong> Multimedia</h2>
+    <div class="row">
+      <div class="col-xs-12">
+        <div class="cont-videos-carousel">
+          <div class="owl-carousel  owl-theme owl-loaded">
+            
+          <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all; width: 911.001px;"><div class="owl-item active" style="width: 288.667px; margin-right: 15px;"><div class="item">
+  <div class="row-fluid">
+    <div class="col-xs-12 clearfix">
+      <a href="https://www.youtube.com/watch?si=GrlHl-tSzlj8YM7e&amp;v=ZR9SbVRNldU&amp;feature=youtu.be" target="_blank">
+<img src="/wcm/connect/www.bancolombia.com-26918/6c428739-d7cc-4a2d-b6dc-2b916adeb634/talento-gestion-equipos.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-6c428739-d7cc-4a2d-b6dc-2b916adeb634-p6FUBER" alt="Gestión del talento con Javier Fernández Aguado" class="center-block" title="Gestión del talento con Javier Fernández Aguado"></a>
+    </div>
+    <div class="col-xs-12 clearfix">
+      <h3>Gestión del talento con Javier Fernández Aguado</h3>
+      <p dir="ltr">Javier Fernández Aguado, director de MindValue, nos cuenta por qué es importante impulsar a tus colaboradores y cómo manejar la interacción entre diversas generaciones.</p>
+
+    </div>
+  </div>
+</div></div><div class="owl-item active" style="width: 288.667px; margin-right: 15px;"><div class="item">
+  <div class="row-fluid">
+    <div class="col-xs-12 clearfix">
+      <a href="https://www.youtube.com/watch?si=KyHQaA3dB-qbTIyj&amp;v=39wuIqfdA_Y&amp;feature=youtu.be" target="_blank"><img src="/wcm/connect/www.bancolombia.com-26918/cb44a296-d845-430a-a23d-f2e7a32f7dbb/criterios-asg.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-cb44a296-d845-430a-a23d-f2e7a32f7dbb-p6FUBER" alt="Criterios ASG en la toma de decisiones" class="center-block" title="Criterios ASG en la toma de decisiones"></a>
+    </div>
+    <div class="col-xs-12 clearfix">
+      <h3>Criterios ASG en la toma de decisiones</h3>
+      <p dir="ltr">Un gran dolor de las empresas y de los líderes, es diseñar y medir estrategias en materia de gobernanza corporativa. Marcos Eguiguren y Pablo Sánchez, hablan sobre las palancas para mover los criterios ASG y cómo ser sostenible.</p>
+
+    </div>
+  </div>
+</div></div><div class="owl-item active" style="width: 288.667px; margin-right: 15px;"><div class="item">
+  <div class="row-fluid">
+    <div class="col-xs-12 clearfix">
+      <a href="https://www.youtube.com/watch?v=1HMrISS1GZ0" title="https://www.youtube.com/watch?v=FHLwnKPiNqY" target="_blank"><img src="/wcm/connect/www.bancolombia.com-26918/75ab9694-021a-4abc-9898-531807b88862/innovacion-ep-110.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-75ab9694-021a-4abc-9898-531807b88862-p6FUBER" alt="Así se lidera la revolución sostenible en Colombia" class="center-block" title="Así se lidera la revolución sostenible en Colombia"></a>
+    </div>
+    <div class="col-xs-12 clearfix">
+      <h3>Así se lidera la revolución sostenible en Colombia</h3>
+      <p dir="ltr">Alejandro Caiffa, fundador de Muta, nos explica por qué la economía circular es un modelo vital para cuidar los océanos, combatir el cambio climático y para asegurar un futuro sostenible para nuestro planeta.</p>
+
+    </div>
+  </div>
+</div></div></div></div><div class="owl-controls"><div class="owl-nav"><div class="owl-prev" style="display: none;">&lt;</div><div class="owl-next" style="display: none;">&gt;</div></div><div class="owl-dots" style="display: none;"></div></div></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+
+</div>
+	
+		<div class="component-control id-Z7_8252I1C0M8HH70ADIUCRFH3JI2"><!-- lm:control dynamic spot injects markup of layout control -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <div class="container-fluid">
+
+<div class="row">
+
+  <div class="col-sm-4 cont-upcoming-events" style="display:block;">
+    <link rel="stylesheet" href="/wcm/connect/www.bancolombia.com-26918/50ba952d-ae69-4a18-a8f4-98d3d2f28841/proximos-eventos.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-50ba952d-ae69-4a18-a8f4-98d3d2f28841-p1.rSFr">
+    <div id="appEventos" lange="es" ng-controller="ctrlEvent as ctrlE">
+      <div class="row-fluid">
+        <div class="upcoming-events">  
+
+          <h2>Nuestras redes sociales</h2>
+
+<a href="https://www.linkedin.com/showcase/capital-inteligente" target="_blank" id="CIHome-Linkedin"><img src="/wcm/connect/www.bancolombia.com-26918/67087010-5a96-44f5-a224-cd3ff15952bd/cta-redes_linkedin.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-67087010-5a96-44f5-a224-cd3ff15952bd-o26FnBg" alt="Linkeding - Capital Inteligente" title="Linkeding - Capital Inteligente" style="margin-left: 24px;margin-bottom: 20px;"></a>
+
+<a href="https://twitter.com/Cap_Inteligente?lang=es" target="_blank" id="CIHome-Twitter"><img src="/wcm/connect/b288dec2-2036-44fb-a181-0ea87e978c73/cta-redes_twitter.jpg?MOD=AJPERES" alt="Twitter - Capital Inteligente" title="Twitter - Capital Inteligente" style="margin-left: 24px;"></a>
+
+
+
+<!--
+          <div class="event row" ng-repeat="event in ctrlE.eventos">
+            <div class="col-sm-3 col-xs-12">
+              <div class="date">
+                <p><span>{{event.dia}}</span> {{event.mes}}</p>
+              </div>
+            </div>
+            <div class="col-sm-9 col-xs-12">
+              <p class="{{event.class}}"> <a href="{{event.urlInterna}}">{{event.titulo}}</a></p>
+            </div>
+          </div>
+          <div class="col-sm-12"><a href="/empresas/capital-inteligente/charlas-virtuales/" title="Ver más eventos" target="_self">Ver más eventos</a></div>
+
+-->
+        </div>
+      </div>
+    </div>
+
+  <script type="text/javascript">
+        angular.bootstrap(document.getElementById('appEventos'), ['appEvent3']);
+  </script>
+  </div>
+  <div class="col-sm-4" style="display:block;">
+    <link rel="stylesheet" type="text/css" href="/wcm/connect/www.bancolombia.com-26918/230de233-5183-443a-bc45-d45449a7ed1a/intereses-capitalMinify.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-230de233-5183-443a-bc45-d45449a7ed1a-p6FUBER">
+
+<div class="trends" style="display: inline-block;">
+
+<h2>Contenidos en audio y video</h2>
+
+
+
+<a href="https://www.youtube.com/channel/UCYytN3aAhHf-YxN-nrDWr8w" target="_blank" id="CIHome-Youtube"><img src="/wcm/connect/www.bancolombia.com-26918/d49bf2b7-c79e-4f70-8def-e153387e9197/cta-redes_you-tube.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-d49bf2b7-c79e-4f70-8def-e153387e9197-o26Ir-n" alt="Youtube - Capital Inteligente" title="Youtube - Capital Inteligente" style="margin-bottom: 20px;"></a>
+
+<a href="https://soundcloud.com/capitalinteligente" target="_blank" id="CIHome-Soundcloud"><img src="/wcm/connect/f460919e-d20b-4585-817b-2d17b5bb1e45/cta-redes_soundcloud.jpg?MOD=AJPERES" alt="Soundcloud - Capital Inteligente" title="Soundcloud - Capital Inteligente"></a>
+
+
+<!--
+<ul dir="ltr">
+	<li><a href="/empresas/capital-inteligente/intereses/tendencia?tendencia=MacroeconomIa" title="Macroeconomía" target="_self">Macroeconomía</a></li>
+	<li><a href="/empresas/capital-inteligente/intereses/tendencia?tendencia=Digitalizacion" title="Digitalización" target="_self">Digitalización</a></li>
+	<li><a href="/empresas/capital-inteligente/intereses/tendencia?tendencia=Negocios%20exitosos" title="Negocios exitosos" target="_self">Negocios exitosos</a></li>
+	<li><a href="/empresas/capital-inteligente/intereses/tendencia?tendencia=Empresas%20sostenibles" title="Empresas sostenibles" target="_self">Empresas sostenibles</a></li>
+	<li><a href="/empresas/capital-inteligente/intereses/tendencia?tendencia=Inversiones" title="Inversiones" target="_self">Inversiones</a></li>
+	<li><a href="/empresas/capital-inteligente/intereses/tendencia?tendencia=Economia%20colombiana" title="Economía colombiana" target="_self">Economía colombiana</a></li>
+</ul>
+
+<a href="/empresas/capital-inteligente/intereses/" title="Ver más intereses" target="_self">Ver más intereses</a>
+-->
+</div>
+
+  </div>
+  <div class="col-sm-4" style="display:block;">
+    <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+
+<link rel="stylesheet" type="text/css" href="/wcm/connect/www.bancolombia.com-26918/f6eecf95-a6bd-40e0-bab4-d2ee564cabe9/suscripcion-boletinMinify.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-f6eecf95-a6bd-40e0-bab4-d2ee564cabe9-p6FUBER">
+
+
+<style type="text/css">
+.cajasuscribase2{font-family:Nunito,sans-serif;background-color:#333;margin-left:30px;color:#fff}.titususcribase{font-weight:700;font-size:18px;color:#fff;padding:25px 12px 0 12px}.titucp{font-weight:200;font-size:28px;display:block}.parrli{font-weight:700}.btnsuscri{border-radius:18px;background-color:#fff;color:#333;font-size:15px;font-weight:700;text-decoration:none;padding:5px 34px}.btnsuscri:hover{background-color:#112c60;color:#fff;text-decoration:none}.capitali{font-size:16px;line-height:20px;margin:30px 0;padding-left:40px;list-style-type:disc}.capitali li{margin-bottom:15px}.cajacenter{text-align:center;padding-bottom:40px}
+</style>
+
+
+<div class="cajasuscribase2">
+	<h2 class="titususcribase">Suscríbase a nuestro boletín <br><span class="titucp">Capital Inteligente</span></h2>
+	<ul class="capitali ">
+		<li>Para conocer<br><span class="parrli">el acontecer económico.</span></li>
+		<li>Para tomar mejores<br><span class="parrli">decisiones de inversión.</span></li>
+		<li>Para compartir<br> <span class="parrli">información de valor.</span></li>
+	</ul>
+	<div class="cajacenter">
+	<a href="/empresas/capital-inteligente/suscripciones/" class="btnsuscri">Suscribirse</a>
+	</div>
+</div>
+
+  </div>
+  <div class="col-sm-4" style="display:none;">
+    
+  </div>
+</div>
+
+</div>
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+
+</div>
+	
+		<div class="component-control id-Z7_416CH480LGSP50A1EAJG3U6F47"><!-- lm:control dynamic spot injects markup of layout control -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <div style="width:100%; height:100%; margin: 0;"><link rel="stylesheet" href="/wcm/connect/www.bancolombia.com-26918/14b7e292-abc5-4de4-83aa-fb509cc6d6e1/contenido-relacionadoMinify.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-14b7e292-abc5-4de4-83aa-fb509cc6d6e1-p6FUBER" type="text/css">
+<div class="container-fluid">
+  <div class="row">
+    <div class="related-content">
+     
+
+</div>
+</div>
+</div></div>
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+
+</div>
+	
+		<div class="component-control id-Z7_8252I1C0M07RC0ARVBRB2407N4"><!-- lm:control dynamic spot injects markup of layout control -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <style type="text/css"> 
+.footer-filiales .links-f {
+    background: url(/wcm/connect/www.bancolombia.com-26918/55b8d246-b591-47d5-8a53-654cd3109896/superintendencia.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-55b8d246-b591-47d5-8a53-654cd3109896-nVP-UKM) 2px 36px no-repeat scroll;
+}
+@media screen  (max-width: 767px){
+.menu-capital .navbar {
+    margin-top: 0px;
+right: 9px;
+}
+}
+@media screen and (max-width: 767px){
+.menu-capital .navbar-toggle {
+     margin-top: -35%;
+}
+}
+@media screen and (max-width: 767px){
+.menu-capital .navbar-toggle.collapsed {
+    background: url(/wcm/connect/55c1420d-08bd-41ea-967e-010b88bd419a/icon-close-menu-02.png?MOD=AJPERES) no-repeat;
+    position: absolute;
+    left: 0px;
+}
+}
+@media screen and (max-width: 767px){
+.header {
+    margin-bottom: 30%;
+}
+}
+@media screen and (max-width: 767px){
+.menu-capital .navbar-collapse .navbar-nav {
+    margin-top: 0;
+    padding-top: 34px;
+}
+}
+</style>
+
+<footer>      
+      <div class="container-fluid g">
+        <div class="container-fluid">
+          <a href="#" title="" target="" class="logo-footer">Capital Inteligente</a>
+          <div class="row">
+            <div class="col-sm-3">
+                <h3>Comuníquese con nosotros</h3>
+                <style type="text/css">.search{display:none}
+
+<ul dir="ltr">
+	<li><a href="https://www.bancolombia.com/empresas/contactanos/" title="Contáctenos"  data-cke-saved-href="https://www.bancolombia.com/empresas/contactanos/">Contáctenos</a></li>
+	<li><a href="https://www.bancolombia.com/wps/portal/acerca-de/informacion-corporativa/trabaja-con-nosotros/" title="Trabaja con nosotros"  data-cke-saved-href="https://www.bancolombia.com/wps/portal/acerca-de/informacion-corporativa/trabaja-con-nosotros/">Trabaja con nosotros</a></li>
+</ul>
+</style>
+
+              
+            </div>
+            <div class="col-sm-3">
+                <h3>Enlaces rápidos</h3>
+                <ul dir="ltr">
+	<li><a href="https://www.bancolombia.com/wps/portal/acerca-de/" title="Acerca de nosotros">Acerca de nosotros</a></li>
+	<li><a href="https://www.bancolombia.com/empresas/capital-inteligente/investigaciones-economicas/" title="Investigaciones Económicas">Investigaciones Económicas</a></li>
+	<li><a href="https://www.bancolombia.com/empresas/transacciones/" title="Transaciones">Transacciones</a></li>
+	<li><a href="https://www.bancolombia.com/empresas/capital-inteligente/investigaciones-economicas/indicadores/" title="Indicadores Financieros">Indicadores Financieros</a></li>
+	<li><a href="/empresas/capital-inteligente/intereses/" target="_self" title="Intereses">Intereses</a></li>
+</ul>
+
+            </div>
+            <div class="col-sm-4">
+                <h3>Enlaces legales</h3>
+                <ul dir="ltr">
+	<li><a href="https://www.bancolombia.com/empresas/condiciones-de-uso/" title="Condiciones de uso">Condiciones de uso</a></li>
+	<li><a href="/wcm/connect/www.bancolombia.com-26918/5688d284-06db-4f87-894b-f82cf038bd15/Disponibilidad+T%C3%A9cnica+4+Trimestre+2018.pdf?MOD=AJPERES&amp;CVID=nVP-LpG">Indicadores de disponibilidad</a></li>
+</ul>
+
+            </div>
+            <div class="col-sm-2">
+                <h3>Síganos</h3>
+                <ul class="social" dir="ltr">
+	<li><a href="https://www.linkedin.com/showcase/10590591/" target="_blank">LinkedIn</a></li>
+	<li><a href="https://twitter.com/Cap_Inteligente?lang=es" target="_blank">Twitter</a></li>
+	<li><a href="https://www.youtube.com/channel/UCYytN3aAhHf-YxN-nrDWr8w" target="_blank">Youtube</a></li>
+</ul>
+
+            </div>
+          </div>
+          <div class="col-sm-12 copy">
+              <p dir="ltr"><strong>Copyright © 2022&nbsp;Grupo Bancolombia.</strong> Productos y servicios de Banca, Fiducia, Leasing, Renting, Bolsa, Factoring, Banca de Inversión, Financiamiento, además del portafolio ofrecido por las entidades del exterior en Panamá, Cayman, Puerto Rico, Renting Perú, Leasing Perú, Fidu Perú y Valores Bancolombia Panamá.<br>
+<strong>Te recomendamos usar los navegadores Web Chrome 43 o superior, Firefox 38 o superior, Safari 8 o superior, Internet Explorer 10, 11.</strong></p>
+
+<p dir="ltr"><link rel="stylesheet" title="" href="/wcm/connect/www.bancolombia.com-26918/9e2b5b55-aca4-41ee-ae80-4e46d39ade5a/capital-inteligente-rediseno.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-9e2b5b55-aca4-41ee-ae80-4e46d39ade5a-p6FUBER" type="text/css"> <script>
+	//Funcion guardar nomenclatura de la pagina
+localStoragePage = "PageVisited_General";
+function LS_PageVisited_General() {
+  var ubicacion = window.location.pathname;
+  ubicacion = ubicacion.split('/');
+  var tamano = ubicacion.length;
+  var pagina = ""; var inicial = ""; var str = "";
+  jsonhome = ['/personas', '/personas/necesidades', '/personas/productos-servicios', '/personas/aprender-es-facil', '/empresas', '/empresas/necesidades', '/empresas/productos-servicios', '/empresas/capital-inteligente', '/acerca-de', '/acerca-de/negocios-especializados', '/acerca-de/informacion-corporativa', '/acerca-de/sala-prensa', '/about-us', '/banca-inversion/acerca-de', '/banca-inversion/productos-servicios', '/banca-inversion/industrias', '/fiduciaria', '/fiduciaria/acerca-de', '/fiduciaria/productos-servicios', '/leasing-bancolombia', '/leasing-bancolombia/acerca-de', '/leasing-bancolombia/productos-servicios', '/renting-colombia', '/renting-colombia/acerca-de', '/renting-colombia/productos-servicios', '/valores-bancolombia', '/valores-bancolombia/acerca-de', '/valores-bancolombia/productos-servicios', '/factoring', '/factoring/acerca-de', '/factoring/productos-servicios', '/asset-management', '/asset-management/acerca-de', '/asset-management/productos-servicios', '/comercio-internacional', '/comercio-internacional/necesidades', '/sufi', '/sufi/credito-para-lo-que-necesitas', '/sufi/somos-sufi', '/sufi/aprende-con-sufi', '/valores-banistmo', '/valores-banistmo/acerca-de', '/valores-banistmo/productos-servicios', '/fiduperu', '/fiduperu/acerca-de', '/fiduperu/productos-servicios', '/leasing-peru', '/leasing-peru/acerca-de', '/leasing-peru/productos-servicios', '/renting-peru', '/renting-peru/acerca-de', '/renting-peru/productos-servicios', '/sucursal-panama', '/sucursal-panama/acerca-de', '/sucursal-panama/productos-servicios', '/panama', '/panama/acerca-de', '/panama/productos-servicios', '/cayman', '/cayman/acerca-de', '/cayman/productos-servicios', '/bancolombia-puerto-rico', '/bancolombia-puerto-rico/acerca-de', '/bancolombia-puerto-rico/productos-servicios'];
+  var arracomp = [];
+  var comp = [];
+  var k = 0;
+   if (tamano >= 5) {
+      for (i = 3; i < 5; i++) {
+          arracomp[k] = ubicacion[i];
+          k += 1;
+      }
+  } else {
+      arracomp[0] = ubicacion[3];
+  }
+   comp = []
+  if (arracomp[1] != "" && arracomp[1] != null) {
+      comp[0] = '/' + arracomp[0] + '/' + arracomp[1];
+      comp[1] = '/' + arracomp[0];
+  } else {
+      comp[0] = '/' + arracomp[0];
+  }
+   for (k = 3; k < tamano; k++) {
+      var arraystr = ubicacion[k].split('-');
+      tam = arraystr.length;
+      if (tam > 1) {
+          for (j = 0; j < tam; j++) {
+              str = str + arraystr[j].substr(0, 6);
+          }
+          str = str;
+      } else {
+          str = str + ubicacion[k].substr(0, 6);
+      }
+  }
+   pagina = str.toUpperCase()
+   return pagina;
+}
+
+//funcion para guardar en el localstorage la navegación
+function LS_setPageVisited_General() {
+  var getlocal = localStorage.getItem(localStoragePage);
+  pagina = LS_PageVisited_General();
+   if (getlocal === null || getlocal === "") {
+      localStorage.setItem(localStoragePage, pagina);
+  } else {
+      arraygetlocal = getlocal.split('|');
+      tam = arraygetlocal.length;
+      var str1 = '';
+       if (tam > 1) {
+          for (i = 0; i < tam; i++) {
+              if (pagina === arraygetlocal[i]) {
+                  str1 = getlocal;
+                  break
+              } else {
+                  str1 = getlocal + "|" + pagina;
+              }
+          }
+          localStorage.setItem(localStoragePage, str1);
+      } else {
+          if (getlocal === pagina) {
+           } else {
+              str1 = getlocal + "|" + pagina;
+              localStorage.setItem(localStoragePage, str1);
+          }
+      }
+  }
+}
+
+LS_setPageVisited_General();
+</script></p>
+
+          </div>
+        </div>
+      </div>
+    </footer>
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+
+</div>
+	 
+
+	 
+</div><link rel="alternate" href="https://www.bancolombia.com/empresas/capital-inteligente" hreflang="es-co"><script id="" text="</div>" charset="" type="text/javascript" src="https://www.youtube.com/iframe_api"></script><iframe height="0" width="0" src="https://us.creativecdn.com/tags?type=iframe&amp;id=pr_jhGcnXd71YJghz9Pbt7Y&amp;ncm=1&amp;id=pr_jhGcnXd71YJghz9Pbt7Y_lid_dM2x2dVY9p4zUdze9MhB&amp;su=https%3A%2F%2Fwww.bancolombia.com%2Fempresas%2Fcapital-inteligente&amp;sr=https%3A%2F%2Fwww.bancolombia.com%2F&amp;ts=1729044372077" style="display: none; visibility: hidden;" data-gtm-yt-inspected-153="true" data-gtm-yt-inspected-168234102_248="true" data-gtm-yt-inspected-168234102_250="true" data-gtm-yt-inspected-168234102_252="true" data-gtm-yt-inspected-168234102_254="true" data-gtm-yt-inspected-168234102_883="true"></iframe><script type="text/javascript" id="" charset="">!function(){var a=window.analytics=window.analytics||[];if(!a.initialize)if(a.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{a.invoked=!0;a.methods="trackSubmit trackClick trackLink trackForm pageview identify reset group track ready alias debug page once off on addSourceMiddleware addIntegrationMiddleware setAnonymousId addDestinationMiddleware".split(" ");a.factory=function(b){return function(){var c=Array.prototype.slice.call(arguments);c.unshift(b);
+a.push(c);return a}};for(var e=0;e<a.methods.length;e++){var f=a.methods[e];a[f]=a.factory(f)}a.load=function(b,c){var d=document.createElement("script");d.type="text/javascript";d.async=!0;d.src="https://cdn.segment.com/analytics.js/v1/"+b+"/analytics.min.js";b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(d,b);a._loadOptions=c};a._writeKey="tLaTw4deomRI5TNPu7siYARckwFqGstp";a.SNIPPET_VERSION="4.15.3";a.load("tLaTw4deomRI5TNPu7siYARckwFqGstp")}}();</script>
+
+	
+	<!-- This is responsible for bootstrapping the configuration for the javascript framework. 
+    This is located here instead of the head section to improve client performance. -->
+	<div class="wpthemeComplementaryContent" id="wpthemeComplementaryContent" role="region" aria-labelledby="wpthemeComplementaryContentText">
+		<span class="wpthemeAltText" id="wpthemeComplementaryContentText">Complementary Content</span>
+		<script type="text/javascript" src="/contenthandler/!ut/p/digest!sDtrplgKmfeKXRwyy8_HZA/mashup/ra:collection?themeID=ZJ_2G9I1K41NG5E10QG0PQ3L00AC5&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1728137060716&amp;entry=wp_portal__0.0%3Aconfig_config_static&amp;entry=wcm_config__0.0%3Aconfig_config_static&amp;entry=wcm_inplaceEdit__0.0%3Aconfig_config_static"></script><script type="text/javascript">i$.merge({"ibmCfg":{"themeConfig":{"themeUniqueName":"Bancolombia_CapitalInt","themeRootURI":"/contenthandler/!ut/p/digest!j7GebSzo2hDJQO3NgCnl5Q/war/Bancolombia_CapitalInt_estatico/themes/Bancolombia_Personas","themeWebAppBaseURI":"/Bancolombia_CapitalInt_dinamico/themes/html/dynamicSpots","themeWebDAVBaseURI":"war:Bancolombia_CapitalInt_estatico/themes/Bancolombia_Personas/","modulesWebAppBaseURI":"/themeModules","commonResourcesRootURI":"/contenthandler/!ut/p/digest!sDtrplgKmfeKXRwyy8_HZA/dav/fs-type1/common-resources","isRTL":false,"isPageRenderModeCSA":false,"portletOverridePageTitle":"Capital Inteligente - Grupo Bancolombia","currentContentNodeOID":"Z6_416CH480L0DQ50A18GHPJIGPM1","loadingImage":"css/images/loading.gif","dndSourceDefinitions":[],"categorySources":[],"styleSources":[],"layoutSources":[]},"portalConfig":{"locale":"es","portalURI":"","contentHandlerURI":"/contenthandler/!ut/p/digest!X2CKVb5i4WrMx5wiBS3Utg/","pocURI":"/!ut/p/z0/0wcA1NLTeQ!!/","isVirtualPortal":true,"canImpersonate":false,"themeRootURI":"/Bancolombia_CapitalInt_dinamico/themes/html/dynamicSpots","parentPageID":"Z6_2G9I1K41N8AD50QDBM0JIM3GV0","currentPageOID":"Z6_416CH480L0DQ50A18GHPJIGPM1","canAnonymousUserViewCurrentPage":true,"bootstrapState":"&lt;?xml version=&#034;1.0&#034; encoding=&#034;UTF-8&#034;?&gt;&lt;root xmlns=&#034;http://www.ibm.com/xmlns/prod/websphere/portal/v6.1/portal-state&#034;&gt;&lt;state type=&#034;navigational&#034;&gt;&lt;selection selection-node=&#034;Z6_416CH480L0DQ50A18GHPJIGPM1&#034;&gt;&lt;mapping src=&#034;Z6_000000000000000000000000A0&#034; dst=&#034;Z6_416CH480L0DQ50A18GHPJIGPM1&#034;/&gt;&lt;mapping src=&#034;Z6_416CH480L0DQ50A18GHPJIGPM1&#034; dst=&#034;Z6_000000000000000000000000A0&#034;/&gt;&lt;/selection&gt;&lt;expansions&gt;&lt;node id=&#034;Z6_2G9I1K41N8AD50QDBM0JIM3GV0&#034;/&gt;&lt;node id=&#034;Z6_000000000000000000000000A0&#034;/&gt;&lt;/expansions&gt;&lt;/state&gt;&lt;/root&gt;","isUserLoggedIn":false,"currentUser":"anonymous portal user","currentUserOID":"","aggregatedStyle":null,"isCurrentPageEditable":true,"wcmPageMetadata":{"contentRoot":null,"sharingScope":null},"projectUUID":null},"userName":""},"com_ibm_theme_capabilities":{"wp_dialog_draggable":"0.0","wp_theme_high_contrast":"0.0","getting_started_module":"0.0","wp_hiddenpages":"0.0","wp_one_ui_dijit_303":"0.0","wp_simple_contextmenu_ext":"0.0","wp_simple_contextmenu_js":"0.0","wp_toolbar_sitepreview_menuactions":"0.0","wp_portlet_css":"0.0","wp_theme_utils":"0.0","wp_social_rendering_85":"0.0","wp_one_ui_dijit":"3.0.3","wp_client_selector":"0.0","wp_toolbar_menuactions":"0.0","wp_toolbar_host_view":"0.0","wp_hiddencontent":"0.0","oneUIDijit":"3.0.3","wp_theme_skin_region":"0.0","wp_portal":"0.0","photon.dom":"1.0","wp_photon_dom":"0.0","wp_toolbar_sitepreview":"0.0","wp_status_bar":"0.0","wp_client_tracing":"0.0","modules":"0.1","wp_dynamicContentSpots_Bancolombia_CapitalInt":"0.0","hasBaseURL":"true","oneUI":"3.0.3","wp_state_page_modes":"0.0","wp_toolbar_common_actionbar":"0.0","wp_client_main":"0.0","wp_toolbar_viewframe_validator":"0.0","wp_toolbar_actionbar":"0.0","simple-contextmenu":"1.1","wp_dialog_css":"0.0","wp_theme_menus":"0.0","wp_client_logging":"0.0","wp_state_page":"0.0","wp_toolbar_common":"0.0","wp_toolbar_projectmenu":"0.0","wp_dialog_main":"0.0","wp_ic4_wai_resources":"0.0","wp_worklight_ext":"0.0","wp_simple_contextmenu_main":"0.0","wp_one_ui":"3.0.3","wp_layout_windowstates":"0.0","wp_toolbar_moremenu":"0.0","wp_custom_page_style":"0.0","wp_toolbar_contextmenu":"0.0","social_rendering":"8.5","wp_searchbar":"0.0","wp_toolbar_informationmode":"0.0","wp_client_ext":"0.0","wp_simple_contextmenu_css":"0.0","wp_toolbar85":"0.0","wp_modules":"0.0","wp_analytics_aggregator":"0.0","toolbar":"8.5","wp_dialog_util":"0.0","wp_oob_sample_styles":"0.0","wp_toolbar_utils":"0.0","a11y":"1.0","wp_a11y":"0.0","wp_one_ui_303":"0.0","analytics_aggregator":"8.0","wp_theme_portal_85":"0.0","wp_simple_contextmenu_templates":"0.0","wp_toolbar_logo":"0.0"},"com_ibm_device_class":[]});ibmCfg.portalConfig.bootstrapState=(ibmCfg.portalConfig.bootstrapState||"").replace(/&lt;/gm, '<').replace(/&gt;/gm, '>').replace(/&amp;/gm, '&').replace(/&#039;/gm, "'").replace(/&#034;/gm, '"');i$.merge({"ibmCfg":{"portalConfig":{"asaConfig":{"canViewAsaReports":"false","canViewAsaSitePromotions":"false","canCreateAsaSitePromotions":"false","canDeleteAsaSitePromotions":"false","reportConfig":{"scopes":[]}}}}});i$.merge({"ibmCfg":{"portalConfig":{"isShowHiddenPages":false}}});</script><script type="text/javascript" src="/contenthandler/!ut/p/digest!j7GebSzo2hDJQO3NgCnl5Q/mashup/ra:collection?themeID=ZJ_2G9I1K41NG5E10QG0PQ3L00AC5&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1674171398000&amp;entry=wp_one_ui_303__0.0%3Aconfig_js&amp;entry=wp_dialog_main__0.0%3Aconfig_js&amp;entry=wp_toolbar_utils__0.0%3Aconfig_js&amp;entry=wp_state_page_modes__0.0%3Aconfig_js&amp;entry=wp_simple_contextmenu_ext__0.0%3Aconfig_js&amp;entry=wp_simple_contextmenu_js__0.0%3Aconfig_js&amp;entry=wp_toolbar_actionbar__0.0%3Aconfig_js&amp;entry=wp_toolbar_menuactions__0.0%3Aconfig_js&amp;entry=wp_toolbar_sitepreview_menuactions__0.0%3Aconfig_js&amp;entry=wp_ic4_wai_resources__0.0%3Aconfig_js&amp;entry=wp_theme_skin_region__0.0%3Aconfig_js&amp;entry=wp_status_bar__0.0%3Aconfig_js&amp;entry=wp_toolbar_projectmenu__0.0%3Aconfig_js&amp;entry=wp_toolbar_contextmenu__0.0%3Aconfig_js&amp;entry=wp_toolbar_sitepreview__0.0%3Aconfig_js&amp;entry=wp_theme_high_contrast__0.0%3Aconfig_js"></script><a rel="alternate" id="config_js_deferred" href="/contenthandler/!ut/p/digest!j7GebSzo2hDJQO3NgCnl5Q/mashup/ra:collection?themeID=ZJ_2G9I1K41NG5E10QG0PQ3L00AC5&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1728137061000&amp;entry=wp_liveobject_framework_core__0.0%3Aconfig_js&amp;entry=wp_portal_ui_utils__0.0%3Aconfig_js&amp;entry=wp_contextmenu_js__0.0%3Aconfig_js&amp;entry=wp_contextmenu_config_lof__0.0%3Aconfig_js&amp;entry=wp_federated_documents_picker__0.0%3Aconfig_js&amp;entry=wp_dnd_main__0.0%3Aconfig_js&amp;entry=wp_movecontrols__0.0%3Aconfig_js&amp;entry=wp_toolbar_controlactions__0.0%3Aconfig_js&amp;entry=wp_content_targeting_cam__0.0%3Aconfig_js&amp;entry=wp_analytics_tags__0.0%3Aconfig_js&amp;deferred=true" style="display:none"> Deferred Modules </a><span id="simpleMenuTemplate" class="wpthemeMenuLeft">
+    <div class="wpthemeMenuBorder">
+        <div class="wpthemeMenuNotchBorder"></div>
+        <!-- define the menu item template inside the "ul" element.  only "css-class", "description", and "title" are handled by the theme's sample javascript. -->
+        <ul class="wpthemeMenuDropDown wpthemeTemplateMenu" role="menu">
+            <li class="${css-class}" role="menuitem" tabindex="-1"><span class="wpthemeMenuText">${title}</span>${badge}</li>
+        </ul>
+    </div>
+    <!-- Template for loading -->
+    <div class="wpthemeMenuLoading wpthemeMenuLoadingText wpthemeTemplateLoading">${loading}</div>
+    <!-- Template for submenu -->
+    <div class="wpthemeAnchorSubmenu wpthemeTemplateSubmenu">
+        <div class="wpthemeMenuBorder wpthemeMenuSubmenu">
+            <ul id="${submenu-id}" class="wpthemeMenuDropDown" role="menu"><li role="menuitem" tabindex="-1"></li></ul>
+        </div>
+    </div>
+</span><a rel="alternate" id="config_markup_deferred" href="/contenthandler/!ut/p/digest!L-5X5HmDafjqm9hzknk_Xw/mashup/ra:collection?themeID=ZJ_2G9I1K41NG5E10QG0PQ3L00AC5&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fplain&amp;entry=wp_contextmenu_templates__0.0%3Aconfig_markup&amp;entry=wp_dnd_main__0.0%3Aconfig_markup&amp;deferred=true" style="display:none"> Deferred Modules </a></div>
+	
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/crypto-js.min.js"></script>
+
+
+<script type="text/javascript" id="" charset="">/*
+ regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */
+function _typeof(d){"@babel/helpers - typeof";return _typeof="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(g){return typeof g}:function(g){return g&&"function"==typeof Symbol&&g.constructor===Symbol&&g!==Symbol.prototype?"symbol":typeof g},_typeof(d)}
+function _regeneratorRuntime(){function d(b,a,c){return Object.defineProperty(b,a,{value:c,enumerable:!0,configurable:!0,writable:!0}),b[a]}function g(b,a,c,h){a=a&&a.prototype instanceof l?a:l;a=Object.create(a.prototype);h=new A(h||[]);return H(a,"_invoke",{value:w(b,c,h)}),a}function f(b,a,c){try{return{type:"normal",arg:b.call(a,c)}}catch(h){return{type:"throw",arg:h}}}function l(){}function k(){}function m(){}function r(b){["next","throw","return"].forEach(function(a){d(b,a,function(c){return this._invoke(a,
+c)})})}function n(b,a){function c(e,p,t,G){e=f(b[e],b,p);if("throw"!==e.type){var I=e.arg;return(e=I.value)&&"object"==_typeof(e)&&B.call(e,"__await")?a.resolve(e.__await).then(function(C){c("next",C,t,G)},function(C){c("throw",C,t,G)}):a.resolve(e).then(function(C){I.value=C;t(I)},function(C){return c("throw",C,t,G)})}G(e.arg)}var h;H(this,"_invoke",{value:function(e,p){function t(){return new a(function(G,I){c(e,p,G,I)})}return h=h?h.then(t,t):t()}})}function w(b,a,c){var h="suspendedStart";return function(e,
+p){if("executing"===h)throw Error("Generator is already running");if("completed"===h){if("throw"===e)throw p;return J()}c.method=e;for(c.arg=p;;){if(e=c.delegate)if(e=u(e,c)){if(e===y)continue;return e}if("next"===c.method)c.sent=c._sent=c.arg;else if("throw"===c.method){if("suspendedStart"===h)throw h="completed",c.arg;c.dispatchException(c.arg)}else"return"===c.method&&c.abrupt("return",c.arg);h="executing";e=f(b,a,c);if("normal"===e.type){if(h=c.done?"completed":"suspendedYield",e.arg===y)continue;
+return{value:e.arg,done:c.done}}"throw"===e.type&&(h="completed",c.method="throw",c.arg=e.arg)}}}function u(b,a){var c=a.method,h=b.iterator[c];if(void 0===h)return a.delegate=null,"throw"===c&&b.iterator["return"]&&(a.method="return",a.arg=void 0,u(b,a),"throw"===a.method)||"return"!==c&&(a.method="throw",a.arg=new TypeError("The iterator does not provide a '"+c+"' method")),y;c=f(h,b.iterator,a.arg);return"throw"===c.type?(a.method="throw",a.arg=c.arg,a.delegate=null,y):(c=c.arg)?c.done?(a[b.resultName]=
+c.value,a.next=b.nextLoc,"return"!==a.method&&(a.method="next",a.arg=void 0),a.delegate=null,y):c:(a.method="throw",a.arg=new TypeError("iterator result is not an object"),a.delegate=null,y)}function v(b){var a={tryLoc:b[0]};1 in b&&(a.catchLoc=b[1]);2 in b&&(a.finallyLoc=b[2],a.afterLoc=b[3]);this.tryEntries.push(a)}function L(b){var a=b.completion||{};a.type="normal";delete a.arg;b.completion=a}function A(b){this.tryEntries=[{tryLoc:"root"}];b.forEach(v,this);this.reset(!0)}function z(b){if(b){var a=
+b[q];if(a)return a.call(b);if("function"==typeof b.next)return b;if(!isNaN(b.length)){var c=-1;a=function e(){for(;++c<b.length;)if(B.call(b,c))return e.value=b[c],e.done=!1,e;return e.value=void 0,e.done=!0,e};return a.next=a}}return{next:J}}function J(){return{value:void 0,done:!0}}_regeneratorRuntime=function(){return x};var x={},M=Object.prototype,B=M.hasOwnProperty,H=Object.defineProperty||function(b,a,c){b[a]=c.value},D="function"==typeof Symbol?Symbol:{},q=D.iterator||"@@iterator",N=D.asyncIterator||
+"@@asyncIterator",K=D.toStringTag||"@@toStringTag";try{d({},"")}catch(b){d=function(a,c,h){return a[c]=h}}x.wrap=g;var y={};D={};d(D,q,function(){return this});var E=Object.getPrototypeOf;(E=E&&E(E(z([]))))&&E!==M&&B.call(E,q)&&(D=E);var F=m.prototype=l.prototype=Object.create(D);return k.prototype=m,H(F,"constructor",{value:m,configurable:!0}),H(m,"constructor",{value:k,configurable:!0}),k.displayName=d(m,K,"GeneratorFunction"),x.isGeneratorFunction=function(b){b="function"==typeof b&&b.constructor;
+return!!b&&(b===k||"GeneratorFunction"===(b.displayName||b.name))},x.mark=function(b){return Object.setPrototypeOf?Object.setPrototypeOf(b,m):(b.__proto__=m,d(b,K,"GeneratorFunction")),b.prototype=Object.create(F),b},x.awrap=function(b){return{__await:b}},r(n.prototype),d(n.prototype,N,function(){return this}),x.AsyncIterator=n,x.async=function(b,a,c,h,e){void 0===e&&(e=Promise);var p=new n(g(b,a,c,h),e);return x.isGeneratorFunction(a)?p:p.next().then(function(t){return t.done?t.value:p.next()})},
+r(F),d(F,K,"Generator"),d(F,q,function(){return this}),d(F,"toString",function(){return"[object Generator]"}),x.keys=function(b){var a=Object(b),c=[],h;for(h in a)c.push(h);return c.reverse(),function p(){for(;c.length;){var t=c.pop();if(t in a)return p.value=t,p.done=!1,p}return p.done=!0,p}},x.values=z,A.prototype={constructor:A,reset:function(b){if(this.prev=0,this.next=0,this.sent=this._sent=void 0,this.done=!1,this.delegate=null,this.method="next",this.arg=void 0,this.tryEntries.forEach(L),!b)for(var a in this)"t"===
+a.charAt(0)&&B.call(this,a)&&!isNaN(+a.slice(1))&&(this[a]=void 0)},stop:function(){this.done=!0;var b=this.tryEntries[0].completion;if("throw"===b.type)throw b.arg;return this.rval},dispatchException:function(b){function a(I,C){return p.type="throw",p.arg=b,c.next=I,C&&(c.method="next",c.arg=void 0),!!C}if(this.done)throw b;for(var c=this,h=this.tryEntries.length-1;h>=0;--h){var e=this.tryEntries[h],p=e.completion;if("root"===e.tryLoc)return a("end");if(e.tryLoc<=this.prev){var t=B.call(e,"catchLoc"),
+G=B.call(e,"finallyLoc");if(t&&G){if(this.prev<e.catchLoc)return a(e.catchLoc,!0);if(this.prev<e.finallyLoc)return a(e.finallyLoc)}else if(t){if(this.prev<e.catchLoc)return a(e.catchLoc,!0)}else{if(!G)throw Error("try statement without catch or finally");if(this.prev<e.finallyLoc)return a(e.finallyLoc)}}}},abrupt:function(b,a){for(var c=this.tryEntries.length-1;c>=0;--c){var h=this.tryEntries[c];if(h.tryLoc<=this.prev&&B.call(h,"finallyLoc")&&this.prev<h.finallyLoc){var e=h;break}}e&&("break"===b||
+"continue"===b)&&e.tryLoc<=a&&a<=e.finallyLoc&&(e=null);c=e?e.completion:{};return c.type=b,c.arg=a,e?(this.method="next",this.next=e.finallyLoc,y):this.complete(c)},complete:function(b,a){if("throw"===b.type)throw b.arg;return"break"===b.type||"continue"===b.type?this.next=b.arg:"return"===b.type?(this.rval=this.arg=b.arg,this.method="return",this.next="end"):"normal"===b.type&&a&&(this.next=a),y},finish:function(b){for(var a=this.tryEntries.length-1;a>=0;--a){var c=this.tryEntries[a];if(c.finallyLoc===
+b)return this.complete(c.completion,c.afterLoc),L(c),y}},"catch":function(b){for(var a=this.tryEntries.length-1;a>=0;--a){var c=this.tryEntries[a];if(c.tryLoc===b){b=c.completion;if("throw"===b.type){var h=b.arg;L(c)}return h}}throw Error("illegal catch attempt");},delegateYield:function(b,a,c){return this.delegate={iterator:z(b),resultName:a,nextLoc:c},"next"===this.method&&(this.arg=void 0),y}},x}
+function ownKeys(d,g){var f=Object.keys(d);if(Object.getOwnPropertySymbols){var l=Object.getOwnPropertySymbols(d);g&&(l=l.filter(function(k){return Object.getOwnPropertyDescriptor(d,k).enumerable}));f.push.apply(f,l)}return f}
+function _objectSpread(d){for(var g=1;g<arguments.length;g++){var f=null!=arguments[g]?arguments[g]:{};g%2?ownKeys(Object(f),!0).forEach(function(l){_defineProperty(d,l,f[l])}):Object.getOwnPropertyDescriptors?Object.defineProperties(d,Object.getOwnPropertyDescriptors(f)):ownKeys(Object(f)).forEach(function(l){Object.defineProperty(d,l,Object.getOwnPropertyDescriptor(f,l))})}return d}
+function _defineProperty(d,g,f){g=_toPropertyKey(g);g in d?Object.defineProperty(d,g,{value:f,enumerable:!0,configurable:!0,writable:!0}):d[g]=f;return d}function _toPropertyKey(d){d=_toPrimitive(d,"string");return _typeof(d)==="symbol"?d:String(d)}
+function _toPrimitive(d,g){if(_typeof(d)!=="object"||d===null)return d;var f=d[Symbol.toPrimitive];if(f!==void 0){d=f.call(d,g||"default");if(_typeof(d)!=="object")return d;throw new TypeError("@@toPrimitive must return a primitive value.");}return(g==="string"?String:Number)(d)}function asyncGeneratorStep(d,g,f,l,k,m,r){try{var n=d[m](r),w=n.value}catch(u){f(u);return}n.done?g(w):Promise.resolve(w).then(l,k)}
+function _asyncToGenerator(d){return function(){var g=this,f=arguments;return new Promise(function(l,k){function m(w){asyncGeneratorStep(n,l,k,m,r,"next",w)}function r(w){asyncGeneratorStep(n,l,k,m,r,"throw",w)}var n=d.apply(g,f);m(void 0)})}}
+var getNode=function(d){var g=arguments.length>1&&arguments[1]!==void 0?arguments[1]:0;return new Promise(function(f,l){try{var k=document.querySelector(d);if(k)f(k);else{var m=new MutationObserver(function(){if(k=document.querySelector(d))f(k),m.disconnect()});m.observe(document.documentElement,{childList:!0,subtree:!0,attributes:!0,characterData:!1});g&&setTimeout(function(){console.warn('getNode \x3e\x3e timeout for query "'.concat(d,'"'));m.disconnect();f(null)},g)}}catch(r){l(r)}})},getSelector=
+function(d){var g=d.id?"#".concat(d.id):d.href?'a[href\x3d"'.concat(d.href,'"]'):d.className?".".concat(d.className.split(" ").join(".")):d.tagName.toLowerCase(),f=document.querySelectorAll(g).length===1;f||(g="ms-"+Math.random().toString(36).substring(2,9),d.classList.add(g),g=".".concat(g));return g};function getCookie(d){var g;return(g=document.cookie.split("; ").find(function(f){return f.startsWith(d+"\x3d")}))===null||g===void 0?void 0:g.split("\x3d")[1]}
+function setCookie(d,g,f,l){var k=new Date;k.setTime(k.getTime()+f*864E5);var m="expires\x3d"+k.toUTCString();l.forEach(function(r){document.cookie="".concat(d,"\x3d").concat(g,";").concat(m,";domain\x3d.").concat(r,";path\x3d/")})}
+var addEventListenerToElement=function(){var d=_asyncToGenerator(_regeneratorRuntime().mark(function k(f,l){var m,r,n,w,u=arguments;return _regeneratorRuntime().wrap(function(v){for(;;)switch(v.prev=v.next){case 0:m=u.length>2&&u[2]!==void 0?u[2]:"click";r=u.length>3&&u[3]!==void 0?u[3]:!1;n=u.length>4&&u[4]!==void 0?u[4]:null;v.t0=n;if(v.t0){v.next=8;break}v.next=7;return getNode(l);case 7:v.t0=v.sent;case 8:if(n=v.t0){v.next=11;break}return v.abrupt("return");case 11:w=function A(){var z=_objectSpread(_objectSpread({},
+f),{},{elemento:r?n.textContent.trim():void 0});r&&(z.event="".concat(z.elemento," ").concat(z.dy_creative_type));console.log(z);dataLayer.push(z);(z=getCookie("dy_tagging"))||setCookie("dy_tagging","true",180,["bancolombia.com"]);n.removeEventListener(m,A)},n.addEventListener(m,w);case 13:case "end":return v.stop()}},k)}));return function(f,l){return d.apply(this,arguments)}}();function getCTAContent(d){return _getCTAContent.apply(this,arguments)}
+function _getCTAContent(){_getCTAContent=_asyncToGenerator(_regeneratorRuntime().mark(function f(g){var l;return _regeneratorRuntime().wrap(function(k){for(;;)switch(k.prev=k.next){case 0:if(l=document.querySelector(g)){k.next=5;break}k.next=4;return getNode(g);case 4:l=k.sent;case 5:return k.abrupt("return",l?l.textContent:"");case 6:case "end":return k.stop()}},f)}));return _getCTAContent.apply(this,arguments)}
+var events=[{dy_campaign_id:821646,dy_creative_type:"Overlay",activo:"bancolombia",seccion:"negocio",flujo:"pagos",selector:"a.button_16933280",many:!0},{dy_campaign_id:764174,dy_creative_type:"Notification",activo:"bancolombia",seccion:"personas",flujo:"home",selector:"div.ms-banner-button",many:!0},{dy_campaign_id:648151,dy_creative_type:"Single",activo:"bancolombia",seccion:"personas",flujo:"inversiones",selector:"a.ms-a-sticky",many:!0},{dy_campaign_id:764157,dy_creative_type:"Overlay",activo:"bancolombia",
+seccion:"personas",flujo:"creditos",selector:"a[class*\x3d'dy-button-'] \x3e span",many:!0},{dy_campaign_id:764171,dy_creative_type:"Overlay",activo:"bancolombia",seccion:"personas",flujo:"seguros",selector:"a[class*\x3d'dy-button-'] \x3e span",many:!0},{dy_campaign_id:603746,dy_creative_type:"Single",dy_subname:"Respuesta al frente",activo:"bancolombia",seccion:"personas",flujo:"home",selector:".dy-wcm-item-rotador-1 a",many:!0,experiences:[{experience:"Experiencia Soluciones de Financiaci\u00f3n",
+product:"Libre Inversi\u00f3n"},{experience:"Experiencia Soluciones de Pagos",product:"Cuenta de ahorro"}]},{dy_campaign_id:648154,dy_creative_type:"Single",dy_subname:"Respuesta al frente",activo:"bancolombia",seccion:"personas",flujo:"home",selector:".dy-wcm-item-rotador-1 a",many:!0,experiences:[{experience:"Experiencia Soluciones de Financiaci\u00f3n",product:"Libre Inversi\u00f3n"},{experience:"Experiencia Soluciones de Pagos",product:"Cuenta de ahorro"}]},{dy_campaign_id:603747,dy_creative_type:"Single",
+dy_subname:"Respuesta al frente",activo:"bancolombia",seccion:"personas",flujo:"home",selector:".dy-wcm-item-rotador-2 a",many:!0,experiences:[{experience:"Experiencia Soluciones de Financiaci\u00f3n",product:"Libranza"}]},{dy_campaign_id:648155,dy_creative_type:"Single",dy_subname:"Respuesta al frente",activo:"bancolombia",seccion:"personas",flujo:"home",selector:".dy-wcm-item-rotador-2 a",many:!0,experiences:[{experience:"Experiencia Soluciones de Financiaci\u00f3n",product:"Libranza"}]},{dy_campaign_id:603752,
+dy_creative_type:"Single",dy_subname:"Respuesta al frente",activo:"bancolombia",seccion:"personas",flujo:"home",selector:".dy-wcm-item-rotador-3 a",many:!0,experiences:[{experience:"Experiencia Medios de Pago",product:"Cuenta de ahorro"}]},{dy_campaign_id:648160,dy_creative_type:"Single",dy_subname:"Respuesta al frente",activo:"bancolombia",seccion:"personas",flujo:"home",selector:".dy-wcm-item-rotador-3 a",many:!0,experiences:[{experience:"Experiencia Medios de Pago",product:"Cuenta de ahorro"}]},
+{dy_campaign_id:577714,dy_creative_type:"Single",activo:"bancolombia",seccion:"personas",flujo:"home",selector:".dy_unit .container .card-text-brand .btn-outline-brand \x3e a",many:!0,experiences:[{experience:"Experiencia Ingresos Recurrentes",product:"Libranza"},{experience:"Experiencia Medios de Pago",product:"Cuenta de ahorro"},{experience:"Experiencia Independientes",product:"Cuenta de ahorro"},{experience:"Experiencia Soluciones de Pagos",product:"Cuenta de ahorro"}]},{dy_campaign_id:764174,
+dy_creative_type:"Notification",dy_step:"Step1",dy_subname:"preaprobados",activo:"bancolombia",seccion:"personas",flujo:"home",selector:"#dy-fua-pre-approved",many:!0},{dy_campaign_id:764174,dy_creative_type:"Notification",dy_step:"Step3",dy_subname:"preaprobados",activo:"bancolombia",seccion:"personas",flujo:"home",selector:"#dy-button-cta-preapproved",many:!0},{dy_campaign_id:764174,dy_creative_type:"Notification",dy_step:"Step1",dy_subname:"rescate-libre-inversion",activo:"bancolombia",seccion:"personas",
+flujo:"home",selector:"a[data-rescate-producto*\x3d'libre_inversion']",many:!0},{dy_campaign_id:764174,dy_creative_type:"Notification",dy_step:"Step1",dy_subname:"rescate-vivienda",activo:"bancolombia",seccion:"personas",flujo:"home",selector:"a[data-rescate-producto*\x3d'vivienda']",many:!0},{dy_campaign_id:764174,dy_creative_type:"Notification",dy_step:"Step1",dy_subname:"rescate-crediagil",activo:"bancolombia",seccion:"personas",flujo:"home",selector:"a[data-rescate-producto*\x3d'agil']",many:!0},
+{dy_campaign_id:916019,dy_creative_type:"Overlay",dy_subname:"Experiencias Fondos",activo:"bancolombia",seccion:"personas",flujo:"home",dy_product:"Fondos de Inversi\u00f3n Colectiva",dy_tipo_fondo:"Plan Semilla",selector:".cards .card:nth-child(1) a",many:!0},{dy_campaign_id:916019,dy_creative_type:"Overlay",dy_subname:"Experiencias Fondos",activo:"bancolombia",seccion:"personas",flujo:"home",dy_product:"Fondos de Inversi\u00f3n Colectiva",dy_tipo_fondo:"Fiducuenta",selector:".cards .card:nth-child(2) a",
+many:!0},{dy_campaign_id:916019,dy_creative_type:"Overlay",dy_subname:"Experiencias Fondos",activo:"bancolombia",seccion:"personas",flujo:"home",dy_product:"Fondos de Inversi\u00f3n Colectiva",dy_tipo_fondo:"Fidurenta",selector:".cards .card:nth-child(3) a",many:!0},{dy_campaign_id:764173,dy_creative_type:"Overlay",dy_subname:"Seguro mascotas",activo:"bancolombia",seccion:"personas",flujo:"home",selector:"div[class*\x3d'dy-container'] a[href*\x3d'suraenlinea.com/mascotas']",many:!0},{dy_campaign_id:764172,
+dy_creative_type:"Overlay",dy_subname:"Seguro mascotas",activo:"bancolombia",seccion:"personas",flujo:"home",selector:"div[class*\x3d'dy-container'] input[type\x3dradio]",many:!0},{dy_campaign_id:916022,dy_creative_type:"Custom Code",activo:"bancolombia",seccion:"personas",flujo:"home",selector:"a#bar-container",many:!0},{dy_campaign_id:916040,dy_creative_type:"Overlay",dy_subname:"Seguro Integral de Cancer",activo:"bancolombia",seccion:"personas",flujo:"seguros",selector:"a[href*\x3d'seguroscardif'][class*\x3d'button']",
+many:!0},{dy_campaign_id:916037,dy_creative_type:"Overlay",dy_subname:"Seguro Integral de Cancer",activo:"bancolombia",seccion:"personas",flujo:"seguros",selector:"a[href*\x3d'seguroscardif'][class*\x3d'button']",many:!0},{dy_campaign_id:916009,dy_creative_type:"Single",dy_subname:"Experiencias Fondos",activo:"bancolombia",seccion:"personas",flujo:"home",selector:"div.ms-sticky-btn",many:!0},{dy_campaign_id:916010,dy_creative_type:"Single",dy_subname:"Experiencias Fondos",activo:"bancolombia",seccion:"personas",
+flujo:"home",selector:"div.ms-sticky-btn",many:!0},{dy_campaign_id:916034,dy_creative_type:"Custom Code",activo:"bancolombia",seccion:"personas",flujo:"home",selector:"a",many:!0},{dy_campaign_id:648145,dy_creative_type:"Custom Code",activo:"bancolombia",seccion:"personas",flujo:"home",selector:"a.button-primary[href*\x3d'acceso']",many:!0},{dy_campaign_id:1014866,dy_creative_type:"Custom Code",dy_subname:"hipotecario ventas digitales",activo:"bancolombia",seccion:"personas",flujo:"vivienda",selector:"a.ms-a-sticky[href*\x3d'inmobiliario']",
+many:!1}];
+events.forEach(function(){var d=_asyncToGenerator(_regeneratorRuntime().mark(function l(f){var k,m,r,n,w,u,v,L,A,z,J,x,M,B,H,D,q,N,K,y,E,F,b,a,c;return _regeneratorRuntime().wrap(function(h){for(;;)switch(h.prev=h.next){case 0:return m=f.dy_campaign_id,r=f.dy_creative_type,n=f.dy_step,w=f.dy_subname,u=f.activo,v=f.seccion,L=f.flujo,A=f.selector,z=f.many,J=f.experiences,x=f.dy_product,M=f.dy_tipo_fondo,h.next=3,getCTAContent(A);case 3:return B=h.sent,H=B.trim(),h.next=7,DYO.getUserObjectsAndVariations();case 7:D=
+h.sent;if(q=D.find(function(e){return e.objectId===m})){h.next=11;break}return h.abrupt("return");case 11:N=q===null||q===void 0?void 0:q.objectName,K=q===null||q===void 0?void 0:q.conditionName,y=q===null||q===void 0?void 0:q.conditionId,E=q===null||q===void 0?void 0:q.variations[0],F=x||(J===null||J===void 0?void 0:(k=J.find(function(e){return e.experience===K}))===null||k===void 0?void 0:k.product),b=(q===null||q===void 0?void 0:q.variations[0])!=="do_nothing_action",a=_objectSpread(_objectSpread(_objectSpread(_objectSpread(_objectSpread({dy_campaign_placement:window.location.href,
+dy_campaign_id:m,dy_campaign_name:N,dy_experience_name:K,dy_experience_id:y,dy_creative_type:r,activo:u,seccion:v,flujo:L},n&&{dy_step:n}),w&&{dy_subname:w}),F&&{dy_product:F}),M&&{dy_tipo_fondo:M}),{},{dy_variant:E}),z?document.querySelectorAll(A).forEach(function(e){var p=getSelector(e),t=_objectSpread({},a);b&&addEventListenerToElement(t,p,"click",!0,e)}):(c=_objectSpread(_objectSpread({},a),{},{event:"".concat(H," ").concat(r),elemento:"".concat(H)}),b&&addEventListenerToElement(c,A));case 19:case "end":return h.stop()}},
+l)}));return function(f){return d.apply(this,arguments)}}());</script><script type="text/javascript" id="" charset="">DYO.Q(DYO.waitForElementAsync(".dy-banner-text-title",1,10)).then(function(){var a=DYO.getRenderedObjectsOnPage();a=Object.keys(a["764174"].so.variations)[0];"17425034"===a&&(a={event:"dy_view",dy_campaign_placement:window.location.pathname,dy_campaign_id:764174,dy_step:"Step2",dy_subname:"preaprobados",activo:"bancolombia",seccion:"personas",flujo:"home"},console.log(a),window.dataLayer.push(a))});</script><script type="text/javascript" id="" charset="">(function(){function e(c){var a;return null===(a=document.cookie.split("; ").find(function(b){return b.startsWith(c+"\x3d")}))||void 0===a?void 0:a.split("\x3d")[1]}var d=e("dy_tagging");if(d){d=document.querySelectorAll("a[href*\x3d'accesodigital.grupobancolombia.com']");d.forEach(function(c){c.href+=c.href.includes("?")?"\x26dy_tagging\x3dtrue":"?dy_tagging\x3dtrue"});d=new MutationObserver(function(c){c.forEach(function(a){"childList"===a.type&&a.addedNodes.forEach(function(b){1===b.nodeType&&
+"A"===b.tagName&&b.href.includes("grupobancolombia.com")&&b.href.includes("accesodigital")&&!b.href.includes("dy_tagging\x3dtrue")&&(b.href+=b.href.includes("?")?"\x26dy_tagging\x3dtrue":"?dy_tagging\x3dtrue")});"attributes"===a.type&&"href"===a.attributeName&&(a=a.target,1===a.nodeType&&"A"===a.tagName&&a.href.includes("grupobancolombia.com")&&a.href.includes("accesodigital")&&!a.href.includes("dy_tagging\x3dtrue")&&(a.href+=a.href.includes("?")?"\x26dy_tagging\x3dtrue":"?dy_tagging\x3dtrue"))})});
+var f={childList:!0,subtree:!0,attributes:!0,attributeFilter:["href"]};d.observe(document.body,f)}})();</script><script type="text/javascript" id="" charset="">var titlePage=document.title.toLowerCase(),url=document.location.href;-1==document.location.href.search("appspot.com")&&analytics.page("Page View",{content_name:titlePage,url:url,path:google_tag_manager["rm"]["100677727"](158),screen_resolution:window.screen.width+"x"+window.screen.height,ads_storage_consent_state:"granted",analytics_storage_consent_state:"granted"});</script><script type="text/javascript" id="" charset="">(function(f){function g(a,b,d){if(a.addEventListener)a.addEventListener(b,d);else if(a.attachEvent)a.attachEvent("on"+b,function(c){d.call(a,c)});else if(typeof a["on"+b]==="undefined"||a["on"+b]===null)a["on"+b]=function(c){d.call(a,c)}}g(f,"message",function(a){try{var b=JSON.parse(a.data),d=f.dataLayer||(f.dataLayer=[]);if(b.event){var c={event:b.event};Object.keys(b).forEach(function(e){e!=="event"&&(c[e]=b[e])});d.push(c)}}catch(e){}})})(window);</script><script type="text/javascript" id="" charset="">var myDate=new Date;myDate.setMonth(myDate.getYear()+12);"autenticacion.apps.bancolombia.com"==google_tag_manager["rm"]["100677727"](169)&&(document.cookie="tipoFlujo\x3d; domain\x3d.apps.bancolombia.com; Path\x3d/; Expires\x3dThu, 01 Jan 1970 00:00:01 GMT;",document.cookie="tipoFlujo\x3d"+google_tag_manager["rm"]["100677727"](170)+";expires\x3d"+myDate+";domain\x3d.apps.bancolombia.com;path\x3d/");
+"autenticacion.grupobancolombia.com"==google_tag_manager["rm"]["100677727"](171)&&(document.cookie="tipoFlujo\x3d; domain\x3d.grupobancolombia.com; Path\x3d/; Expires\x3dThu, 01 Jan 1970 00:00:01 GMT;",document.cookie="tipoFlujo\x3d"+google_tag_manager["rm"]["100677727"](172)+";expires\x3d"+myDate+";domain\x3d.grupobancolombia.com;path\x3d/");</script></body></html>
